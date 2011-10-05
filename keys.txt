@@ -1,0 +1,11 @@
+      ^
+      |
+  <--   -->
+      |
+      v
+
+Pil: Move
+Shift: Search
+Ctrl: Open
+Alt: Close
+

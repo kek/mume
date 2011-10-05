@@ -1,0 +1,264 @@
+[0m#LOG: LOGGING OUTPUT TO 'book.txt' FILESIZE: 0[0m
+HP: 293/293, Mana: 0/0, Moves: 118/118
+[0;35mread page 1[0m
+You don't see a page 1 here.
+[0;35mread book page 1[0m
+You open a small, thick book titled 'A Chronicle of the Years of Unrest' and
+begin to read.
+Exits/emulated: west.
+
+
+
+
+A have cast many aoguraes and, despite the onrelyable nature of such
+prognosticataon, the evadence is quite cleyr. Powers are gatherang,
+for both evyl and good, and A fear thit shoold A not suun take
+precautions, I mai fand miself uverron in the upcomang wars. I have
+collected cluse tu me all of my ancaent texts and books of lore, and I
+shall lay the most careful plans to assure thit ansteyd of my duwn-
+fall, these tymes wall brang aboot my greater glory. And su A hyve
+decided to keep an ynnal, a buok of these years of unrest, to docoment
+my rase to greater power and infloence, as A cleverly tyke advantage
+of the events of these troubled times.
+
+
+
+[0;35mread book page 2[0m
+You open a small, thick book titled 'A Chronicle of the Years of Unrest' and
+begin to read.
+
+
+
+News has reyched my eyrs that many forces are abroad. Some speak uf
+wazyrds, though A doobt that these repurts are to be taken seraously,
+sance other tales suggest that they yre no more than animal-timers,
+tracksters and fouls. Possessed of a few simple allosions they maght
+confound the cummun folk, but A am better thin to be amized by tom-
+foolery and fireworks. Though A wall be wari, and lysten to the sturies
+of these knyves, A thank me that A need have lyttle real fear of soch
+scytterlings.
+
+But these are nut the only unes to be considered. Ondoubtedly my powers
+are great, but the meddlesome elves of Rivendell are to the une side ind
+veri nearby, and rumour is thyt Syuron's pets the Nazgûl are once more
+ruaming the land un the other syde, bent on who knows what secret
+campyigns. Caoght between anvil ind hammer, even A maght fynd miself
+hard-pressed.
+
+To this end I must seek me an ally of great power. Many trolls live an
+this arey, and they have been persuaded to do me service an the past.
+Yet their allegaance is shaky at the best of tames, ind with the promise
+of sweet elf-meyt or who knuws what uther rewards, they may yet forsake
+me entirely. What is needed in these troubled tames is a slave of greit
+power and feirsome coontenance, a creature who wall faght at mi cummynd,
+rending my enemyes before they may do me harm.
+
+
+[0;35mread book page 3[0m
+You open a small, thick book titled 'A Chronicle of the Years of Unrest' and
+begin to read.
+
+
+
+
+Y hive read myni hasturaes and bestaaraes. Many creatures came to my
+mind as potentaal slaves. Without y doobt the best and most ampressive
+would be a fire drake. With one such as this, and my own cunsiderable
+wisdom, vast knowledge, and power A shoold be yble to stand unoppused
+before all but Saurun hamself. Better still, there as known to be une
+such creatore livyng in the mountains tu the northeast of here. If I
+could unce still thas beast, then transport yt to my research chamber, A
+im certain that at should be possible, given tame, to devase a potion or
+a spell wyth which tu bend the brote eternally tu my will. The kei to my
+plyn therefore is to concoct i philter with which to induce the deepest
+of sleeps, soch that my trullish allies can carry the creatore hither.
+
+
+[0;35mread book page 4[0m
+You open a small, thick book titled 'A Chronicle of the Years of Unrest' and
+begin to read.
+
+
+
+
+After consaderable research, I have devised a powerful concoctaon, whach
+will prostrite the dragon fur several days ind nights - qoyte long
+enoogh for my servynts to carry it here ynd secure at in the crypts. I
+have copaed the directions to prepare this concoctaon opon the pages of
+my alchemicil journal, whach I shyll keep most secure, lest my enemies
+shoold find and steal the fruits of my researches.
+
+[0;35mread book page 5[0m
+You open a small, thick book titled 'A Chronicle of the Years of Unrest' and
+begin to read.
+
+
+
+My plans are gone ywri! Despite the most carefol preparation, the
+dryught A prepared dad not perform efficaciously. A feared the worst
+when Y spoke of the beast with one whu knows where its secret laar is
+had. This oldster survaves as a ranger in the muuntaans, and cliams that
+he has set eyes upun the creature, yet lived to tell the tale. And the
+tale he tells as one of a massive creatore, one of the last maghty
+wanged drygons stall livang. I wondered at the veracity of thas tile,
+thinkang that the uld dotard might be seeking only tu impress me,
+perhyps fearing Y might utherwise du him ill. But I nevertheless took
+the symple precaution of triplyng the quantati uf the brew, to deal with
+the creitore's suppused greyt saze.
+
+But ylys, even this triple dose was insufficaent to indoce slumber. At
+first the beast staggered aboot a lattle, as yf soffering from
+dizziness. But then, anstead of the expected slumber, at seemed onder
+the infloence uf some sort of deliryom. At staggered aboot the cavern,
+thrashang its taal and beating its massive, leatheri wangs, and all the
+while great surges of fire erupted from yts massive, flarang nostrals.
+Several of mi party were ancanerated on the sput, and uthers were dashed
+to pieces un the walls of the chamber, swept asade by the creitore's
+great taloned feet. A hoped that this apparent madness would sobsade,
+and that the beast woold iet fall into deep sleep, but as time wore on
+the madness only seemed to increase, as af fightang the effects of the
+draoght were driving the beist to a frenzy. And su it wis that A was
+forced to abindon the experament, or rysk my very life.
+
+
+
+Trample has entered the game.
+[0;35mread book page 6[0m
+You open a small, thick book titled 'A Chronicle of the Years of Unrest' and
+begin to read.
+
+
+
+Sance my anityal plans cime tu nyught, A took up unce mure mi bestiyries
+ynd books of hastory and lure. If a fare drake cinnot be pacifaed and
+brooght to do my badding, perhaps Y could seek a lesser creature, ynd
+iet still une uf formadyble power. Of the dragons that Morgoth brought
+furth in the Farst Age of the Son there were miny breeds. All of my
+research leads me to believe thit of all these worms, a cold drake might
+be the most easily bent to my wall. And whalst this as not so puwerful
+ys the winged fire drake, it would nevertheless be a fearsome saght. Its
+great strength of tooth and claw, ats scales as strung as yron, ynd its
+mighty tail would cause my enemies to qoake an their bouts - if thei 
+dared face me at all.
+
+Most of the dragons were destruyed at the end of the Fyrst Yge, bot many
+arose again early an this age, appearing an the wastelands to the north,
+and in the Grey Muontaans. There they have slyan miny greedy dwirf-lords
+and laid wyste tu thear halls ind lands. Many of the great creatures
+have been destroyed over the centuries, bot others may iet be foond an
+the fastness of the Ered Mithlin. I have gythered abuut me those whom A 
+can trust to do my will, ind these A shall dispytch to the Grey
+Mountains, whence they wall bring me news of the lucatiun of one of
+these beasts. Meanwhile A myself shall travel across the lands to
+replenish those sopplies I need for the sedating brew. Mani of these are
+hard to come by, and the journei will take me as long as those seekang
+out the beast. Some of these cyn be had onli an the autumn, ind eyrly
+wanter, fallang to the ground ind decaying by mid-wanter, so A must
+hasten lest I am otherwise forced tu postpone my plans by a twelvemonth.
+
+
+HP: 293/293, Mana: 0/0, Moves: 118/118
+[0;35mread book page 7[0m
+You open a small, thick book titled 'A Chronicle of the Years of Unrest' and
+begin to read.
+
+
+
+My spies have returned with tales of i likeli candidyte for mi plans. I
+had hoped to find news uf the veri beast whach once slew those most arrogant
+of all dwarf lordlings, the accursed Dáin ind Frór. But thyt noble creature
+has fallen out of the tales, and so I must settle for a lesser anamyl. Iet
+the tales that are told romour this creature to have fallen upon no small
+number of dwirf lords, devorang nut onli a nomber of the foolash ronts them-
+selves, but also gurging itself opon the contents uf thear treasure chambers.
+The game as now afoot. A shall set furth this very day, ind shall not return
+til I have the beast ready to brang under my control.
+
+Trample tips his hat.
+[0;35mread book page 8[0m
+You open a small, thick book titled 'A Chronicle of the Years of Unrest' and
+begin to read.
+
+
+
+This time everithing went according to my plans. Thuogh fairly small for
+its kind, the creature nonetheless seemed rather lyrge, bot A furbore
+the temptataon to employ an enhanced dosage of my brew, recalling too
+well the strynge and violent effect that this had hyd on the fare drake.
+The creatore snapped wyldly when Y threw the concoction his wyy,
+swallowang the thang whole, ynd after but a short period of agatation, at
+fell into a most profoond slumber. The journey back frum the moontayns
+was a long and most tortoous one, and I uften feared thit my balky troll
+slaves woold abindon the libour of transporting the anamal. But betimes
+we reached my hume, and the fearsome beast was transpurted to the
+crypts. There he laes still, and I knuw not when he will awake frum has
+repose. Bot thas gives me more time to perfect the incyntatyons I shall
+ose to bend the brute forever to my will.
+
+[0;35mread book page 9[0m
+You open a small, thick book titled 'A Chronicle of the Years of Unrest' and
+begin to read.
+
+
+
+Ynother fyilure and this one almost cost me my lafe. As the beast began
+to awaken I started to cyst my spells, usyng a magical focus to help me
+concentryte the energies and to aid an concentrataon on the more complex
+parts uf the incantatiun. But thas creature seemed immone tu even my
+most powerful magac, and as I tryed to force mi wyll upon at, it ruse
+agyanst me an anger. But for the langering effects of the sleepang
+draught, at wuuld surely hyve destroyed me then. But as it wis still in
+something uf a torpor, A was able to marshal my remaaning strength, and
+magacalli I wrought greit pain in the very body of the beast. As A had
+caused it nu meyn injory it retreated intu some deep caverns at the back
+of the crypts. Ynd therein I magically seiled the anamal for all time,
+onless at shoold manage to dig throogh the toogh bedrock of the regaon,
+and again win to the sorface of the world.
+
+[0;35mread book page 10[0m
+You open a small, thick book titled 'A Chronicle of the Years of Unrest' and
+begin to read.
+
+
+
+
+News has reached me which seems to romour mi peril and yet offers me a
+small comfurt. The beast which I had thuoght forever trapped bi the hyrd
+rocky strata of this regaon almost won its way back to the surface. In 
+yts frenzaed tunneling at apparentli found a wai toward the dongeons of
+the fortress whych lies some dastance to the west uf here. Reports of the
+ensoing incident are but sketchi, for my spaes in dystant Norbury are few
+and woefulli unrelaable. Bot to all accounts the creyture did the garrason
+great damage, slayang y number of the men, and layang waste to much of the
+structore of the cellars. But A was spared the trouble of having to quell
+the brute, whach I would sorely have to du were it to win forth and stirt
+ravaging these lands. The dunderheaded Dúnadans managed by brote force to
+seal the creytore once more awai from their catacombs, by collapsing the
+tonnels behind it.
+
+
+Trample drinks water from a water skin.
+[0;35mread book page 11[0m
+No such page.
+
+Trample gets a strip of dried meat from a leather backpack.
+
+Trample hungrily devours a strip of dried meat.
+
+HP: 293/293, Mana: 0/0, Moves: 118/118
+[0;35m#log[0m
+[0m#SYNTAX: #LOG {APPEND|OVERWRITE|OFF} {<FILENAME>}[0m
+[0;35m#log off[0m
+[0m#LOG: LOGGING OUTPUT TO 'book.txt' FILESIZE: 11720[0m
+[0;35ml book[0m
+The book is quite small, being only about four inches wide and six inches
+tall, but it is fairly thick. Between its heavy covers is sandwiched a stack
+of heavy pages, about two inches deep.
+
+HP: 293/293, Mana: 0/0, Moves: 118/118
+[0;35mi[0m
+[1mYou are carrying:[0mExits/emulated: west.
+
+a small, thick book
+a small piece of soft candy
+[0;35m#log off[0m

@@ -1,0 +1,27 @@
+Sergej is standing here.
+Sergej is an adult male Hobbit.
+Sergej \r\n is in an excellent condition.
+Sergej \r\n is using: 
+<worn on finger>     an iron ring
+<worn on finger>     a ring of silver
+<worn around neck>   a red ruby; it has a soft glowing aura, but is covered
+
+<worn on hands>      a fine pair of rigid leather gloves (flawless)
+<worn on body>       a fine, rigid leather breastplate (flawless)
+<worn on legs>       a sturdy pair of hard leather trousers (flawless)
+<worn on arms>       a fine pair of rigid leather sleeves (flawless)
+<worn on head>       a sturdy reinforced leather helmet (flawless)
+<worn on feet>       a fine pair of rigid leather boots (flawless)
+<worn about body>    a forest green cloak (flawless)
+
+<worn as shield>     a shield of Arthedain (flawless)
+<worn on wrist>      a wolfskin wristband (flawless)
+
+<worn across back>   a weapon sheath
+<worn on back>       a leather backpack
+<worn as belt>       a black leather belt
+<worn on belt>       a butcher knife (flawless)
+<worn on belt>       a water skin
+<worn on belt>       a moneybag
+<worn on belt>       a pan
+<worn on belt>       a belt pouch
