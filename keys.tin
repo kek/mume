@@ -1,0 +1,71 @@
+#macro {\eOP} exits
+#macro {\eOQ} {xinfo}
+#macro {\e[24~} {xinfo}
+#macro {\e[21~} {rip}
+#alias {xinfo} {info %.mood %(%Y%) alert %(%R%) OB %(%O%) DB %(%D%) PB %(%k%) abs %(%A%) Wimpy %(%y%) %.%(%g%) gold, level %(%l%), %(%X%) xp / %(%%T%) tp needed %.%F %C %.HP %(%z%)/%Z Mana %(%e%)/%E Move %(%j%)/%J %.%f}
+#macro {\eOR} {info}
+#macro {\eOk} {xinfo}
+#macro {\eOS} {assist}
+
+#macro {\e[2~} {exits}
+#macro {\eOm} {examine}
+#macro {\e[E} {map rooms}
+#macro {\e[3~} {time}
+#macro {\e[3;2~} {help months}
+
+#nop -- WASD --
+
+#nop macro {\ew} {#echo North;north}
+#nop macro {\es} {#echo South;south}
+#nop macro {\ea} {#echo West;west}
+#nop macro {\ed} {#echo East;east}
+#nop macro {\ee} {#echo Up;up}
+#nop macro {\ec} {#echo Down;down}
+
+#nop macro {\eW} {scout north}
+#nop macro {\eS} {scout south}
+#nop macro {\eA} {scout west}
+#nop macro {\eE} {scout east}
+#nop macro {\eE} {scout up}
+#nop macro {\eC} {scout down}
+
+#macro {\eq} {time}
+#macro {\es} {xinfo}
+#macro {\er} {look}
+
+#nop -- HJKL --
+
+#macro {\ek} {#echo North;north}
+#macro {\ej} {#echo South;south}
+#macro {\eh} {#echo West;west}
+#macro {\el} {#echo East;east}
+#macro {\eu} {#echo Up;up}
+#macro {\en} {#echo Down;down}
+
+#macro {\eK} {scout north}
+#macro {\eJ} {scout south}
+#macro {\eH} {scout west}
+#macro {\eL} {scout east}
+#macro {\eU} {scout up}
+#macro {\eN} {scout down}
+
+#nop -- Shift-arrows --
+
+#macro {\e[1;2A} {#echo North; north}
+#macro {\e[1;2B} {#echo South; south}
+#macro {\e[1;2D} {#echo West; west}
+#macro {\e[1;2C} {#echo East; east}
+#macro {\eOo} {#echo Up; up}
+#macro {\eOj} {#echo Down; down}
+
+#macro {\e[A} {#echo North;north}
+#macro {\e[B} {#echo South;south}
+#macro {\e[C} {#echo East;east}
+#macro {\e[D} {#echo West;west}
+#macro {\eOo} {#echo Up;up}
+#macro {\eOj} {#echo Down;down}
+
+#alias xi xinfo
+#macro {\e[H} {ride}
+#macro {\e[F} {lead M}
+#macro {\e[E} {sneak}

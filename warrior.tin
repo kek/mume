@@ -1,0 +1,7 @@
+#action {^%* death cry as %* collapses.$} {get coins all.corpse; look in corpse}
+#action {^%* seems to have recovered %S senses.$} bash
+#action {^As %* avoids your bash, you topple over and lose your balance.$} bash
+#action {^Your head stops stinging.$} bash
+#action {^A brown pond between old branches and roots is here.$} {pour water skin}
+#action {^You are thirsty.$} {drink skin}
+

@@ -1,0 +1,101 @@
+#CONFIG           {AUTO TAB}  {5000}
+#CONFIG           {BUFFER SIZE}  {20000}
+#CONFIG           {COMMAND COLOR}  {<078>}
+#CONFIG           {COMMAND ECHO}  {ON}
+#CONFIG           {CONNECT RETRY}  {15}
+#CONFIG           {HISTORY SIZE}  {1000}
+#CONFIG           {LOG}  {RAW}
+#CONFIG           {PACKET PATCH}  {0.00}
+#CONFIG           {REPEAT CHAR}  {!}
+#CONFIG           {REPEAT ENTER}  {OFF}
+#CONFIG           {SCROLL LOCK}  {ON}
+#CONFIG           {SPEEDWALK}  {OFF}
+#CONFIG           {TINTIN CHAR}  {#}
+#CONFIG           {VERBATIM}  {OFF}
+#CONFIG           {VERBATIM CHAR}  {\}
+#CONFIG           {VERBOSE}  {OFF}
+#CONFIG           {WORDWRAP}  {ON}
+#PATHDIR          {d}  {u}  {32}
+#PATHDIR          {e}  {w}  {2}
+#PATHDIR          {n}  {s}  {1}
+#PATHDIR          {ne}  {sw}  {3}
+#PATHDIR          {nw}  {se}  {9}
+#PATHDIR          {s}  {n}  {4}
+#PATHDIR          {se}  {nw}  {6}
+#PATHDIR          {sw}  {ne}  {12}
+#PATHDIR          {u}  {d}  {16}
+#PATHDIR          {w}  {e}  {8}
+
+#read keys.tin
+
+#split
+
+
+#config speedwalk on
+
+#PROMPT {^%.%. %+>$} {\e[1;32m%1%2 %3\e[0;0m}
+#PROMPT {^%.%.>$} {\e[1;32m%1%2\e[0;0m}
+#PROMPT {^%.%.%.>$} {\e[1;32m%1%2%3\e[0;0m}
+#PROMPT {^%.%.%. %+>$} {\e[1;32m%1%2%3 %4\e[0;0m}
+#PROMPT {^%.%.%.%. %+>$} {\e[1;32m%1%2%3%4 %5\e[0;0m}
+#config {COMMAND COLOR} <058>
+
+#action {^You completely fill a lantern with oil, emptying a dark coloured flask.$} {rem flask; drop flask; get flask backpack; wear flask}
+#action {^You pour all your remaining oil into a lantern, emptying a dark coloured flask.$} {rem flask; drop flask; get flask backpack; wear flask}
+#action {^Nah... You feel too relaxed to do that.$} stand
+#action {^Maybe you should get on your feet first?$} stand
+
+
+#alias {xsh} {draw bow;shoot %0;draw sheath}
+#alias {craw} {get pan backpack; get salt backpack; cook raw; put pan backpack; put salt backpack; put meat backpack}
+#alias {te} {#grep  tells you}
+#alias {eb} {get %0 backpack; eat %0}
+#alias xp {#grep {^Needed: %+ xp, %+ tp. Gold: %+. Alert: %+$}}
+
+#read characters.tin
+
+#read windowbar.tin
+#nop read clock.tin
+#nop read rip.tin
+
+#alias gg {#gag {^$}}
+#alias ugg {#ungag {^$}}
+
+#alias friends {whois Snowdrop;whois Stan;whois Unur;whois Enoteh;whois Zod;whois Tolm}
+#alias idle {#ticker idle {prac} 60}
+#alias unidle {#unticker idle}
+#alias xp {#grep {^xp to level: %d$}}
+
+#alias hp {#tick hp {info HP: %z/%Z, Mana: %e/%E, Moves: %j/%J} 10}
+#alias unhp {#untick hp}
+#action {^You go to sleep.$} {hp}
+#action {^You wake, and sit up.$} {unhp; stand}
+
+#action {^You are awakened by %S.$} stand
+#highlight {^The sun sinks slowly below the western horizon.$} {red reverse b white}
+#highlight {^The night has begun.$} {red reverse b white}
+#highlight {^The sun rises in the east.$} {red reverse b white}
+#highlight {^The day has begun.$} {red reverse b white}
+
+#highlight {^You flee %*} {black b yellow}
+
+#HIGHLIGHT {^You hit %*} {bold green}
+#HIGHLIGHT {%* hits you%*} {bold red}
+#HIGHLIGHT {%* crushes you%*} {bold red}
+#HIGHLIGHT {%* smites you%*} {bold red}
+
+#nop action {^%+, the %+ of %+, Year %d of the Third Age.$} { help %3 }
+#nop action {^%+ tells you '%*} {#variable reply %1}
+#alias re {tell $reply}
+
+#alias sellall {sa leather;sa shield;sa belt;sa shirt;sa pants;sa ring;sa hood;sa chain;sa metal;sa sword;sa knife;sa dagger;sa belt;sa mace}
+
+#highlight {R.I.P.} {bold yellow}
+#highlight {^%w has arrived from %*.$} blue
+#highlight {^A%? %w has arrived from %*.$} blue
+#highlight {^A%? %w %w has arrived from %*.$} blue
+#highlight {^A%? %w %w %w has arrived from %*.$} blue
+#highlight {^%w leaves %w.$} blue
+#highlight {^A%? %w leaves %w.$} blue
+#highlight {^A%? %w %w leaves %w.$} blue
+#highlight {^A%? %w %w %w leaves %w.$} blue
