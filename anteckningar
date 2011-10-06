@@ -1,0 +1,69 @@
+#map flag vtmap
+eller
+#map flag asciigraphics
+
+#split 10 1
+#map read shire.map
+#map goto 1
+
+w,d,s,e,s,s,s,s,w,w,n
+
+
+http://www.kakupesa.net/kakk/MUME/scout.html
+http://tabris23.tripod.com/guides/cthief2.txt
+http://tabris23.tripod.com/
+http://www.elvenrunes.com/mume/namegen.html
+http://tintin.sourceforge.net/
+http://editthis.info/mumepedia/MUME_Quests_and_Solutions
+http://hot.ee/kuller00/
+http://userweb.tsr.ru/~gray_//MUME.HTM
+http://userweb.tsr.ru/~gray_//MAIN/MAIN.HTM
+http://tabris23.tripod.com/books/book5.txt
+http://www.mume.org/wiki/index.php/Troll_guide
+
+Olly whispers to you 'Ever heard of the Black Dagger Guild?'
+Olly whispers to you 'It's a place where people like you hang out.'
+Olly whispers to you 'I'll tell you how to get there. Head out through the'
+Olly whispers to you 'palisade gate and follow the Ruined Kings Road until ..'
+Olly whispers to you 'you find a stone with a black dagger painted on it.'
+Olly whispers to you 'Then head north... until you reach a ruined house ..'
+Olly whispers to you 'Look for a hiddenrock, open it and go down.'
+Olly whispers to you 'There you will have to 'call' and then say'
+Olly whispers to you 'the password, which is:'
+Olly whispers to you 'nornorrendunabegonna'
+arnorrendunabegonna
+You have 6 practice sessions left.
+A thief can teach you any of these skills:
+                   Sessions Knowledge Difficulty  Advice
+attack                2/11     48%    Normal      Easy to improve
+dodge                 6/ 5     74%    Hard        You should be teaching me!
+hide                  5/11     79%    Normal      Easy to improve
+missile               3/11     65%    Normal      Easy to improve
+pick                  1/ 1     28%    Normal      You know as much as I do
+piercing weapons      9/12     89%    Normal      Learning more could help you
+search                1/16     26%    Normal      Learning more could help you
+steal                 2/ 3     57%    Normal      Easy to improve
+You have 8 practice sessions left.
+A thief can teach you any of these skills:
+                   Sessions Knowledge Difficulty  Advice
+attack               11/11     85%    Normal      You know as much as I do
+dodge                 9/ 5     82%    Hard        You should be teaching me!
+hide                  2/11     56%    Normal      Easy to improve
+missile               0/11      0%    Normal      You could learn easily
+pick                  1/ 1     27%    Normal      You know as much as I do
+piercing weapons     12/12     94%    Normal      You know as much as I do
+search                1/16     26%    Normal      Learning more could help you
+steal                 3/ 3     64%    Normal      You know as much as I do
+
+You have 0 practice sessions left.
+A wary man can teach you any of these skills:
+                   Sessions Knowledge Difficulty  Advice
+backstab             23/23    105%    Hard        You know as much as I do
+envenom               0/ 4      0%    Hard        You could learn easily
+hide                  0/16      0%    Normal      You could learn easily
+pick                  1/ 8     27%    Normal      Learning more could help you
+piercing weapons     12/16     94%    Normal      Learning more could help you
+sneak                20/23    102%    Hard        Hard to improve
+
+
+http://bsc.mandor.se/members/scad/bnguide_v2.html

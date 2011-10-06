@@ -1,0 +1,2 @@
+#!/bin/sh
+(cd cheesemap/troll; ./cheeseserver & ./cheesemap &)

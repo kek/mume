@@ -1,0 +1,57 @@
+#savefile-version 6
+#host localhost 11010
+#delim normal
+#groupdelim @
+#setvar mem=1048576
+#alias clock={#var @toften=$1;#in tick (@toften*1000) clocktick}
+#alias clock_update={#if ($tisset!="yes") {#($regtime="--/--");#($miltime="--/--")}; #else {mkdisptime;mknowtime}}
+#alias clockset={#var @thh=$1;#var @tmm=$2;#if ("$3"=="pm" && @thh!=12) #(@thh+=12);#if ("$3"=="am" && @thh==12) #(@thh=0);#(@ttimer=timer);#var $tisset=yes;clock 17}
+#alias clocktick={ti;clock @{toften}}
+#alias mkdisptime={#if (@tmin<10) #($tfiller = ":0"); #else #($tfiller = ":");#($miltime=%@thour + $tfiller + %@tmin);#if (@thour>11) {#($tampm="pm");#(@thour-=12)};#else #($tampm="am");#if (@thour==0) #(@thour = 12);#($regtime=%@thour + $tfiller + %@tmin + $tampm)}
+#alias mknowtime={#(@tpassed=((timer-@ttimer)/1000)%(24*60));#(@thour=@thh+((@tpassed+@tmm)/60));#if (@thour>23) #(@thour -= 24);#(@tmin=(@tpassed+@tmm)%60)}
+#alias nti={clock_update;#send ("narr It is about " + $regtime)}
+#alias sti={clock_update;#send ("say It is about " + $regtime)}
+#alias ti={clock_update;#print ("You think it is: " + $miltime + "/" + $regtime)}
+#action >+time-suck The current time is $1:$2 $3.={#print;clockset $1 $2 $3}
+#mark clock=inverse 
+#bind BS ^H=&del-char-left
+#bind C-a ^A=&begin-of-line
+#bind C-b ^B=&prev-char
+#bind C-d ^D=&del-char-right
+#bind C-e ^E=&end-of-line
+#bind C-f ^F=&next-char
+#bind C-k ^K=&kill-to-eol
+#bind C-l ^L=&redraw-line
+#bind C-n ^N=&next-line
+#bind C-p ^P=&prev-line
+#bind C-t ^T=&transpose
+#bind C-w ^W=&to-history
+#bind C-z ^Z=&suspend
+#bind Del ^?=&del-char-left
+#bind Down ^[OB=&next-line
+#bind KP2 ^[Or=s
+#bind KP3 ^[Os=d
+#bind KP4 ^[Ot=w
+#bind KP5 ^[Ou=exits
+#bind KP6 ^[Ov=e
+#bind KP7 ^[Ow=look
+#bind KP8 ^[Ox=n
+#bind KP9 ^[Oy=u
+#bind LF ^J=&enter-line
+#bind Left ^[OD=&prev-char
+#bind M-BS ^[^H=&del-word-left
+#bind M-Del ^[^?=&del-word-left
+#bind M-Tab ^[^I=&complete-line
+#bind M-b ^[b=&prev-word
+#bind M-d ^[d=&del-word-right
+#bind M-f ^[f=&next-word
+#bind M-k ^[k=&redraw-line-noprompt
+#bind M-l ^[l=&downcase-word
+#bind M-t ^[t=&transpose-words
+#bind M-u ^[u=&upcase-word
+#bind Ret ^M=&enter-line
+#bind Right ^[OC=&next-char
+#bind Tab ^I=&complete-word
+#bind Up ^[OA=&prev-line
+#option +autoclear -autoprint -compact -debug +echo -exit -history
+#option +info +keyecho -reprint -sendsize -speedwalk -words -wrap

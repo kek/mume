@@ -18,6 +18,7 @@
 #act {~%1 snorfs - %2} {showtowin %1 snorfs - %2}
 #act {~%1 melts: %2} {showtowin %1 melts: %2}
 #act {~%1 says %2} {showtowin %1 says %2}
+#act {~%1 says: %2} {showtowin %1 says: %2}
 
 #act {^%S tells you '%*} {#variable reply %1; showtowin %1 tells you '%2 }
 
