@@ -69,3 +69,19 @@
 #macro {\e[H} {ride}
 #macro {\e[F} {lead M}
 #macro {\e[E} {sneak}
+
+#macro {\eg} {get all all.corpse;give all m}
+
+#macro {\es} {say open}
+#macro {\ec} {call}
+
+
+#macro {\ei} {info travel: %t (%T) move: %j/%J}
+
+#macro {\eOu} {info travel: %t (%T) move: %j/%J}
+#macro {\e[1;2u} flee
+
+#macro {\e[H} {stand}
+#macro {\e[F} {rest}
+
+#macro {\ex} kx

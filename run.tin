@@ -92,14 +92,14 @@
 #alias sellall {sa leather;sa shield;sa belt;sa shirt;sa pants;sa ring;sa hood;sa chain;sa metal;sa sword;sa knife;sa dagger;sa belt;sa mace}
 
 #highlight {R.I.P.} {bold yellow}
-#highlight {^%w has arrived from %*.$} <140>
-#highlight {^A%? %w has arrived from %*.$} <140>
-#highlight {^A%? %w %w has arrived from %*.$} <140>
-#highlight {^A%? %w %w %w has arrived from %*.$} <140>
-#highlight {^%w leaves %w.$} <140>
-#highlight {^A%? %w leaves %w.$} <140>
-#highlight {^A%? %w %w leaves %w.$} <140>
-#highlight {^A%? %w %w %w leaves %w.$} <140>
+#highlight {^%* has arrived from %*.$} {bold yellow}
+#highlight {^A%? %w has arrived from %*.$} {bold yellow}
+#highlight {^A%? %w %w has arrived from %*.$} {bold yellow}
+#highlight {^A%? %w %w %w has arrived from %*.$} {bold yellow}
+#highlight {^%* leaves %w.$} {bold magenta}
+#highlight {^A%? %w leaves %w.$} {bold magenta}
+#highlight {^A%? %w %w leaves %w.$} {bold magenta}
+#highlight {^A%? %w %w %w leaves %w.$} {bold magenta}
 
 #highlight {^You feel a hidden presence.$} {light red}
 #highlight {^You have found %*!$} {light red}
@@ -113,6 +113,8 @@
 
 #highlight {%* of snow-white and palest green} {green}
 #highlight {Delicate golden blooms} {green}
+
+#highlight ZBLAM {light red}
 
 #nop ETC
 

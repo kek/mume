@@ -9,14 +9,14 @@ change mood aggressive
 #nop highlight {^A powerful young troll} yellow
 #highlight {^A disgusting forest troll} yellow
 
-#highlight {^A tall troll} blue
-#highlight {^Clunker} blue
-#highlight {^Crusher} blue
+#highlight {^A tall troll} {light blue}
+#highlight {^Clunker} {light blue}
+#highlight {^Crusher} {light blue}
 
-#nop highlight Arx blue
-#nop highlight Kloonk blue
-#nop highlight Blondinbella blue
-#nop highlight Sporf blue
+#nop highlight Arx {light blue}
+#nop highlight Kloonk {light blue}
+#nop highlight Blondinbella {light blue}
+#nop highlight Sporf {light blue}
 
 #nop unmacro {\e[A}
 #nop unmacro {\e[B}
@@ -41,7 +41,7 @@ change mood aggressive
 #read warrior.tin
 
 #macro {\e[H} wake
-#macro {\eOu} kill troll
+#macro {\eOu} {kill troll; bash}
 #macro {\e[F} sleep
 #macro {\e[1;2F} sleep
 #macro {\e[1;2F} rest
