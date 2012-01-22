@@ -7,3 +7,4 @@ log/*
 characters.tin
 src
 bin
+*.log
