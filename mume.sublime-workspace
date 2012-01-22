@@ -1,0 +1,632 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "weapons.txt",
+			"settings":
+			{
+				"buffer_size": 12406,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "run.tin",
+			"settings":
+			{
+				"buffer_size": 4469,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "windowbar.tin",
+			"settings":
+			{
+				"buffer_size": 1670,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "armours.txt",
+			"settings":
+			{
+				"buffer_size": 12187,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "shields.txt",
+			"settings":
+			{
+				"buffer_size": 1752,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stab.tin",
+			"settings":
+			{
+				"buffer_size": 648,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "characters.tin",
+			"settings":
+			{
+				"buffer_size": 1191,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "guilds.txt",
+			"settings":
+			{
+				"buffer_size": 4015,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "misc.txt",
+			"settings":
+			{
+				"buffer_size": 16178,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 51.0,
+		"selected_items":
+		[
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"key",
+				"Preferences: Default Key Bindings"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"user",
+				"Preferences: User Key Bindings"
+			],
+			[
+				"ke",
+				"Preferences: Default Key Bindings"
+			],
+			[
+				"usfi",
+				"Preferences: User File Settings"
+			],
+			[
+				"usg",
+				"Preferences: User Global Settings"
+			],
+			[
+				"usfis",
+				"Preferences: User File Settings"
+			],
+			[
+				"default",
+				"Preferences: Default Global Settings"
+			],
+			[
+				"keyb",
+				"Preferences: Default Key Bindings"
+			],
+			[
+				"glob",
+				"Preferences: User Global Settings"
+			],
+			[
+				"global",
+				"Preferences: Default Global Settings"
+			],
+			[
+				"defa",
+				"Preferences: Default File Settings"
+			],
+			[
+				"file set",
+				"Preferences: User File Settings"
+			],
+			[
+				"def",
+				"Preferences: Default File Settings"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"defaul",
+				"Preferences: Default File Settings"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 407.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ke/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/ke/spel/mume/run.tin",
+		"/home/ke/spel/mume/characters.tin",
+		"/home/ke/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/ke/spel/mume/mume.sublime-project",
+		"/home/ke/spel/mume/aliases.txt",
+		"/home/ke/prj/express-test/express-test.sublime-project",
+		"/home/ke/.config/sublime-text-2/Packages/Color Scheme - Default/Amy.tmTheme",
+		"/home/ke/.config/sublime-text-2/Packages/Default/comment.py",
+		"/home/ke/.config/sublime-text-2/Packages/User/Global.sublime-settings",
+		"/home/ke/.config/sublime-text-2/Packages/Default/Global.sublime-settings",
+		"/home/ke/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+		"/home/ke/.config/sublime-text-2/Packages/User/JavaScript.sublime-settings",
+		"/home/ke/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/ke/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+		"/home/ke/spel/mume/skulder.txt",
+		"/home/ke/prj/express-test/.gitignore",
+		"/home/ke/prj/express-test/test.js",
+		"/home/ke/prj/express-test/node_modules/express/node_modules/connect/lib/middleware/limit.js",
+		"/home/ke/.local/share/applications/SublimeText.desktop",
+		"/usr/share/applications/gedit.desktop",
+		"/home/ke/.local/share/applications/s2games_com-HoN_1.desktop",
+		"/home/ke/.config/sublime-text-2/Packages/Default/Base File.sublime-settings",
+		"/usr/share/applications/emacs.desktop",
+		"/home/ke/.local/share/applications/mimeapps.list",
+		"/home/ke/opt/Sublime Text 2/PackageSetup.py",
+		"/home/ke/.local/share/applications/‪Nyheter - DN.SE.desktop",
+		"/home/ke/.local/share/applications/userapp-Firefox-8UQLZV.desktop",
+		"/home/ke/.local/share/applications/wine-extension-html.desktop",
+		"/home/ke/opt/Sublime Text 2/sublime_text",
+		"/home/ke/.config/sublime-text-2/Settings/Session.sublime_session",
+		"/home/ke/.local/share/applications/mimeinfo.cache",
+		"/home/ke/prj/express-test/app.js",
+		"/home/ke/prj/express-test/express-test.geany",
+		"/home/ke/.bash_aliases",
+		"/home/ke/.bashrc"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wrap",
+			"wrap\n",
+			"quote",
+			"+p",
+			"window",
+			"switch",
+			"alt+shift+p",
+			"tab",
+			"ke",
+			"	\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "weapons.txt",
+					"settings":
+					{
+						"buffer_size": 12406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8397,
+								8397
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1914.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "run.tin",
+					"settings":
+					{
+						"buffer_size": 4469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 48.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "windowbar.tin",
+					"settings":
+					{
+						"buffer_size": 1670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								397,
+								441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "armours.txt",
+					"settings":
+					{
+						"buffer_size": 12187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9084,
+								9084
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3008.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "shields.txt",
+					"settings":
+					{
+						"buffer_size": 1752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								712,
+								712
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "stab.tin",
+					"settings":
+					{
+						"buffer_size": 648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								571,
+								571
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "characters.tin",
+					"settings":
+					{
+						"buffer_size": 1191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "guilds.txt",
+					"settings":
+					{
+						"buffer_size": 4015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1649,
+								1649
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 8
+						},
+						"translation.x": 0.0,
+						"translation.y": 834.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "misc.txt",
+					"settings":
+					{
+						"buffer_size": 16178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6985,
+								6994
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1594.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"misc",
+				"misc.txt"
+			],
+			[
+				"guil",
+				"guilds.txt"
+			],
+			[
+				"cha",
+				"characters.tin"
+			],
+			[
+				"char",
+				"characters.tin"
+			],
+			[
+				"runtin",
+				"run.tin"
+			],
+			[
+				"sta",
+				"stab.tin"
+			],
+			[
+				"shit",
+				"shields.txt"
+			],
+			[
+				"arm",
+				"armours.txt"
+			],
+			[
+				"wea",
+				"weapons.txt"
+			],
+			[
+				"ali",
+				"aliases.txt"
+			],
+			[
+				"",
+				"test.js"
+			],
+			[
+				"views/",
+				"views/index.jade"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"lim",
+				"node_modules/express/node_modules/connect/lib/middleware/limit.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/ke/prj/cloud9/cloud9.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true
+}

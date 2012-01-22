@@ -1,0 +1,24 @@
+alias on open exit n
+alias os open exit s
+alias oe open exit e
+alias ow open exit w
+alias ou open exit u
+alias od open exit d
+
+alias cn close exit n
+alias cs close exit s
+alias ce close exit e
+alias cw close exit w
+alias cu close exit u
+alias cd close exit d
+
+alias pws pour water skin
+alias dsk drink skin
+alias drw drink water
+
+alias scn scout n
+alias scs scout s
+alias sce scout e
+alias scw scout w
+alias scu scout u
+alias scd scout d
