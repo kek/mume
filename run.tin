@@ -76,6 +76,7 @@
 #highlight {^The night has begun.$} {red reverse b white}
 #highlight {^The sun rises in the east.$} {red reverse b white}
 #highlight {^The day has begun.$} {red reverse b white}
+#highlight {^You gain a level!$} {blue reverse b white}
 
 #highlight {^You flee %*} {black b yellow}
 
@@ -91,11 +92,37 @@
 #alias sellall {sa leather;sa shield;sa belt;sa shirt;sa pants;sa ring;sa hood;sa chain;sa metal;sa sword;sa knife;sa dagger;sa belt;sa mace}
 
 #highlight {R.I.P.} {bold yellow}
-#highlight {^%w has arrived from %*.$} blue
-#highlight {^A%? %w has arrived from %*.$} blue
-#highlight {^A%? %w %w has arrived from %*.$} blue
-#highlight {^A%? %w %w %w has arrived from %*.$} blue
-#highlight {^%w leaves %w.$} blue
-#highlight {^A%? %w leaves %w.$} blue
-#highlight {^A%? %w %w leaves %w.$} blue
-#highlight {^A%? %w %w %w leaves %w.$} blue
+#highlight {^%w has arrived from %*.$} <140>
+#highlight {^A%? %w has arrived from %*.$} <140>
+#highlight {^A%? %w %w has arrived from %*.$} <140>
+#highlight {^A%? %w %w %w has arrived from %*.$} <140>
+#highlight {^%w leaves %w.$} <140>
+#highlight {^A%? %w leaves %w.$} <140>
+#highlight {^A%? %w %w leaves %w.$} <140>
+#highlight {^A%? %w %w %w leaves %w.$} <140>
+
+#highlight {^You feel a hidden presence.$} {light red}
+#highlight {^You have found %*!$} {light red}
+
+#nop ELF STUFF
+
+#highlight {^Orophin, %*$} {light blue}
+#highlight {^Rumil the Master Bard of Lothl%.rien} {light blue}
+#highlight {^Celebrindal, Lady of the Galadhrim, is before you%*$} {light blue}
+#highlight {^A dark-haired, grey-eyed elven lady is standing here, clad all in white.$} {light blue}
+
+#highlight {%* of snow-white and palest green} {green}
+#highlight {Delicate golden blooms} {green}
+
+#nop ETC
+
+#config log plain
+
+#nop read clock.tin
+
+#echo {read run.tin}
+
+#log append mume.log
+
+
+#alias ferry {#action {arrived in} {leave; #unaction {arrived in}};#action {arrived at} {board; #unaction {arrived at}}}

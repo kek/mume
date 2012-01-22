@@ -9,6 +9,7 @@
 #act {~%1 tells the group '%2} {showtowin %1 tells the group '%2}
 #act {~%1 roars: %2} {showtowin %1 roars: %2}
 #act {~%1 yells '%2} {showtowin %1 yells '%2}
+#act {~%1 yells %2} {showtowin %1 yells %2}
 #act {~%1 sez: %2} {showtowin %1 sez: %2}
 #act {~%1 hits the bong: %2} {showtowin %1 hits the bong: %2}
 #act {~%1 rages %2} {showtowin %1 rages %2}
@@ -18,7 +19,7 @@
 #act {~%1 snorfs - %2} {showtowin %1 snorfs - %2}
 #act {~%1 melts: %2} {showtowin %1 melts: %2}
 #act {~%1 says %2} {showtowin %1 says %2}
-#act {~%1 says: %2} {showtowin %1 says: %2}
+#act {~%1 spits %2} {showtowin %1 says %2}
 
 #act {^%S tells you '%*} {#variable reply %1; showtowin %1 tells you '%2 }
 

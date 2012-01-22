@@ -20,6 +20,8 @@
 	stab $stabmob $returndir
 }
 
-#macro {\e[24~} {restab}
+#nop macro {\e[24~} {restab}
 #alias bs stab
+#alias rs restab
+
 #macro {\e[E} sneak

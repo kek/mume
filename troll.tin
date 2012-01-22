@@ -47,4 +47,6 @@ change mood aggressive
 #macro {\e[1;2F} rest
 #macro {\e[E} bash
 # H F E 7 1 5
-#
+
+#macro {[15~} time
+
