@@ -1,13 +1,14 @@
 #macro {\eOP} exits
 #macro {\eOQ} {xinfo}
-#macro {\e[24~} {xinfo}
+#macro {\e[24~} {#read keys.tin; #echo {reloaded keys.tin}}
 #macro {\e[21~} {rip}
-#alias {xinfo} {info %.mood %(%Y%) alert %(%R%) OB %(%O%) DB %(%D%) PB %(%k%) abs %(%A%) Wimpy %(%y%) %.%(%g%) gold, level %(%l%), %(%X%) xp / %(%%T%) tp needed %.%F %C %.HP %(%z%)/%Z Mana %(%e%)/%E Move %(%j%)/%J %.%f}
 #macro {\eOR} {info}
-#macro {\eOk} {xinfo}
+#macro {\eOk} {#echo f2}
 #macro {\eOS} {assist}
 
-#macro {\e[2~} {exits}
+
+#alias {xinfo1} {info %.mood %(%Y%) alert %(%R%) OB %(%O%) DB %(%D%) PB %(%k%) abs %(%A%) Wimpy %(%y%) %.%(%g%) gold, level %(%l%), %(%X%) xp / %(%%T%) tp needed %.%F %C %.HP %(%z%)/%Z Mana %(%e%)/%E Move %(%j%)/%J %.%f}
+
 #macro {\eOm} {examine}
 #macro {\e[E} {map rooms}
 #macro {\e[3~} {time}
@@ -49,21 +50,6 @@
 #macro {\eU} {scout up}
 #macro {\eN} {scout down}
 
-#nop -- Shift-arrows --
-
-#macro {\e[1;2A} {#echo North; north}
-#macro {\e[1;2B} {#echo South; south}
-#macro {\e[1;2D} {#echo West; west}
-#macro {\e[1;2C} {#echo East; east}
-#macro {\eOo} {#echo Up; up}
-#macro {\eOj} {#echo Down; down}
-
-#macro {\e[A} {#echo North;north}
-#macro {\e[B} {#echo South;south}
-#macro {\e[C} {#echo East;east}
-#macro {\e[D} {#echo West;west}
-#macro {\eOo} {#echo Up;up}
-#macro {\eOj} {#echo Down;down}
 
 #alias xi xinfo
 #macro {\e[H} {ride}
@@ -75,13 +61,67 @@
 #macro {\es} {say open}
 #macro {\ec} {call}
 
-
 #macro {\ei} {info travel: %t (%T) move: %j/%J}
 
 #macro {\eOu} {info travel: %t (%T) move: %j/%J}
-#macro {\e[1;2u} flee
+#nop #macro {\e[1;2u} flee
 
-#macro {\e[H} {stand}
-#macro {\e[F} {rest}
 
 #macro {\ex} kx
+
+
+#nop arrow shift ctrl shift+ctrl
+#nop Left
+#macro {\e[D}    {#echo WEST; west}
+#macro {\e[1;2D} {#echo {SCOUT WEST}; scout west}
+#macro {\e[1;5D} {#echo {OPEN EXIT WEST}; open exit west}
+#macro {\e[1;6D} {#echo {CLOSE EXIT WEST}; close exit west}
+#nop Right
+#macro {\e[C}    {#echo EAST; east}
+#macro {\e[1;2C} {#echo {SCOUT EAST}; scout east}
+#macro {\e[1;5C} {#echo {OPEN EXIT EAST}; open exit east}
+#macro {\e[1;6C} {#echo {CLOSE EXIT EAST}; close exit east}
+#nop Up
+#macro {\e[A}    {#echo NORTH; north}
+#macro {\e[1;2A} {#echo {SCOUT NORTH}; scout north}
+#macro {\e[1;5A} {#echo {OPEN EXIT NORTH}; open exit north}
+#macro {\e[1;6A} {#echo {CLOSE EXIT NORTH}; close exit north}
+#nop Down
+#macro {\e[B}    {#echo SOUTH; south}
+#macro {\e[1;2B} {#echo {SCOUT SOUTH}; scout south}
+#macro {\e[1;5B} {#echo {OPEN EXIT SOUTH}; open exit south}
+#macro {\e[1;6B} {#echo {CLOSE EXIT SOUTH}; close exit south}
+
+#nop Home
+#macro {\e[H}   {#echo UP; up}
+#macro {\e[1;2H} {#echo {SCOUT UP}; scout up}
+#macro {\e[1;5H} {#echo {OPEN EXIT UP}; open exit up}
+#macro {\e[1;6H} {#echo {CLOSE EXIT UP}; close exit up}
+
+#nop End
+#macro {\e[F}   {#echo DOWN; down}
+#macro {\e[1;2F} {#echo {SCOUT DOWN}; scout down}
+#macro {\e[1;5F} {#echo {OPEN EXIT DOWN}; open exit down}
+#macro {\e[1;6F} {#echo {CLOSE EXIT DOWN}; close exit down}
+
+#nop Insert
+#macro {\e[2;2~} {help months}
+#macro {\e[2~} {time}
+
+#nop Delete
+#macro {\e[3~} {info %( MP %j/%J (%X) HP %z/%Z - TP %t (%T) XP %x (%X) %)}
+#macro {\e[3;2~} {info %.mood %(%Y%) alert %(%R%) OB %(%O%) DB %(%D%) PB %(%k%) abs %(%A%) Wimpy %(%y%) %.%(%g%) gold, level %(%l%), %(%X%) xp / %(%T%) tp needed %.%F %C %.HP %(%z%)/%Z Mana %(%e%)/%E Move %(%j%)/%J %.%f}
+
+
+
+#nop -- Shift-arrows in some terminal --
+
+#macro {\eOo} {#echo Up; up}
+#macro {\eOj} {#echo Down; down}
+
+#macro {\e[A} {#echo North;north}
+#macro {\e[B} {#echo South;south}
+#macro {\e[C} {#echo East;east}
+#macro {\e[D} {#echo West;west}
+#macro {\eOo} {#echo Up;up}
+#macro {\eOj} {#echo Down;down}

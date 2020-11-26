@@ -1,313 +1,11 @@
-#gag {^According to the D%.nadan calendar, it is:$}
-#gag {^Real time is %.%.%. %.%.%. %* %d:%d:%d %d GMT.$}
-#gag {^Last reboot due to a %* at %.%.%. %.%.%.  %?%d %d:%d:%d %d GMT.$}
+#echo time.tin
+
+#gag {^According to the Dúnadan calendar, it is:$}
+#gag {^Real time is %.%.%. %.%.%. %* %d:%d:%d %d UTC.$}
+#gag {^Last reboot due to a %* at %.%.%. %.%.%. %?%d %d:%d:%d %d UTC.$}
 
 
 # nop gå inte ut i gult
-
-
-
-
-
-#highlight {^1am on %S, the %* of Afteryule} {green}
-#highlight {^2am on %S, the %* of Afteryule} {green}
-#highlight {^3am on %S, the %* of Afteryule} {green}
-#highlight {^4am on %S, the %* of Afteryule} {green}
-#highlight {^5am on %S, the %* of Afteryule} {green}
-#highlight {^6am on %S, the %* of Afteryule} {green}
-#highlight {^7am on %S, the %* of Afteryule} {yellow}
-#highlight {^8am on %S, the %* of Afteryule} {bold red}
-#highlight {^9am on %S, the %* of Afteryule} {bold red}
-#highlight {^10am on %S, the %* of Afteryule} {bold red}
-#highlight {^11am on %S, the %* of Afteryule} {bold red}
-#highlight {^12pm on %S, the %* of Afteryule} {bold red}
-#highlight {^1pm on %S, the %* of Afteryule} {bold red}
-#highlight {^2pm on %S, the %* of Afteryule} {bold red}
-#highlight {^3pm on %S, the %* of Afteryule} {bold red}
-#highlight {^4pm on %S, the %* of Afteryule} {bold red}
-#highlight {^5pm on %S, the %* of Afteryule} {yellow}
-#highlight {^6pm on %S, the %* of Afteryule} {green}
-#highlight {^7pm on %S, the %* of Afteryule} {green}
-#highlight {^8pm on %S, the %* of Afteryule} {green}
-#highlight {^9pm on %S, the %* of Afteryule} {green}
-#highlight {^10pm on %S, the %* of Afteryule} {green}
-#highlight {^11pm on %S, the %* of Afteryule} {green}
-#highlight {^12am on %S, the %* of Afteryule} {green}
-
-#highlight {^1am on %S, the %* of Solmath} {green}
-#highlight {^2am on %S, the %* of Solmath} {green}
-#highlight {^3am on %S, the %* of Solmath} {green}
-#highlight {^4am on %S, the %* of Solmath} {green}
-#highlight {^5am on %S, the %* of Solmath} {green}
-#highlight {^6am on %S, the %* of Solmath} {green}
-#highlight {^7am on %S, the %* of Solmath} {green}
-#highlight {^8am on %S, the %* of Solmath} {yellow}
-#highlight {^9am on %S, the %* of Solmath} {bold red}
-#highlight {^10am on %S, the %* of Solmath} {bold red}
-#highlight {^11am on %S, the %* of Solmath} {bold red}
-#highlight {^12pm on %S, the %* of Solmath} {bold red}
-#highlight {^1pm on %S, the %* of Solmath} {bold red}
-#highlight {^2pm on %S, the %* of Solmath} {bold red}
-#highlight {^3pm on %S, the %* of Solmath} {bold red}
-#highlight {^4pm on %S, the %* of Solmath} {yellow}
-#highlight {^5pm on %S, the %* of Solmath} {green}
-#highlight {^6pm on %S, the %* of Solmath} {green}
-#highlight {^7pm on %S, the %* of Solmath} {green}
-#highlight {^8pm on %S, the %* of Solmath} {green}
-#highlight {^9pm on %S, the %* of Solmath} {green}
-#highlight {^10pm on %S, the %* of Solmath} {green}
-#highlight {^11pm on %S, the %* of Solmath} {green}
-#highlight {^12am on %S, the %* of Solmath} {green}
-
-#highlight {^1am on %S, the %* of Rethe} {green}
-#highlight {^2am on %S, the %* of Rethe} {green}
-#highlight {^3am on %S, the %* of Rethe} {green}
-#highlight {^4am on %S, the %* of Rethe} {green}
-#highlight {^5am on %S, the %* of Rethe} {green}
-#highlight {^6am on %S, the %* of Rethe} {green}
-#highlight {^7am on %S, the %* of Rethe} {yellow}
-#highlight {^8am on %S, the %* of Rethe} {bold red}
-#highlight {^9am on %S, the %* of Rethe} {bold red}
-#highlight {^10am on %S, the %* of Rethe} {bold red}
-#highlight {^11am on %S, the %* of Rethe} {bold red}
-#highlight {^12pm on %S, the %* of Rethe} {bold red}
-#highlight {^1pm on %S, the %* of Rethe} {bold red}
-#highlight {^2pm on %S, the %* of Rethe} {bold red}
-#highlight {^3pm on %S, the %* of Rethe} {bold red}
-#highlight {^4pm on %S, the %* of Rethe} {bold red}
-#highlight {^5pm on %S, the %* of Rethe} {yellow}
-#highlight {^6pm on %S, the %* of Rethe} {green}
-#highlight {^7pm on %S, the %* of Rethe} {green}
-#highlight {^8pm on %S, the %* of Rethe} {green}
-#highlight {^9pm on %S, the %* of Rethe} {green}
-#highlight {^10pm on %S, the %* of Rethe} {green}
-#highlight {^11pm on %S, the %* of Rethe} {green}
-#highlight {^12am on %S, the %* of Rethe} {green}
-
-#highlight {^1am on %S, the %* of Astron} {green}
-#highlight {^2am on %S, the %* of Astron} {green}
-#highlight {^3am on %S, the %* of Astron} {green}
-#highlight {^4am on %S, the %* of Astron} {green}
-#highlight {^5am on %S, the %* of Astron} {green}
-#highlight {^6am on %S, the %* of Astron} {yellow}
-#highlight {^7am on %S, the %* of Astron} {bold red}
-#highlight {^8am on %S, the %* of Astron} {bold red}
-#highlight {^9am on %S, the %* of Astron} {bold red}
-#highlight {^10am on %S, the %* of Astron} {bold red}
-#highlight {^11am on %S, the %* of Astron} {bold red}
-#highlight {^12pm on %S, the %* of Astron} {bold red}
-#highlight {^1pm on %S, the %* of Astron} {bold red}
-#highlight {^2pm on %S, the %* of Astron} {bold red}
-#highlight {^3pm on %S, the %* of Astron} {bold red}
-#highlight {^4pm on %S, the %* of Astron} {bold red}
-#highlight {^5pm on %S, the %* of Astron} {bold red}
-#highlight {^6pm on %S, the %* of Astron} {yellow}
-#highlight {^7pm on %S, the %* of Astron} {green}
-#highlight {^8pm on %S, the %* of Astron} {green}
-#highlight {^9pm on %S, the %* of Astron} {green}
-#highlight {^10pm on %S, the %* of Astron} {green}
-#highlight {^11pm on %S, the %* of Astron} {green}
-#highlight {^12am on %S, the %* of Astron} {green}
-
-#highlight {^1am on %S, the %* of Thrimidge} {green}
-#highlight {^2am on %S, the %* of Thrimidge} {green}
-#highlight {^3am on %S, the %* of Thrimidge} {green}
-#highlight {^4am on %S, the %* of Thrimidge} {green}
-#highlight {^5am on %S, the %* of Thrimidge} {green}
-#highlight {^6am on %S, the %* of Thrimidge} {yellow}
-#highlight {^7am on %S, the %* of Thrimidge} {bold red}
-#highlight {^8am on %S, the %* of Thrimidge} {bold red}
-#highlight {^9am on %S, the %* of Thrimidge} {bold red}
-#highlight {^10am on %S, the %* of Thrimidge} {bold red}
-#highlight {^11am on %S, the %* of Thrimidge} {bold red}
-#highlight {^12pm on %S, the %* of Thrimidge} {bold red}
-#highlight {^1pm on %S, the %* of Thrimidge} {bold red}
-#highlight {^2pm on %S, the %* of Thrimidge} {bold red}
-#highlight {^3pm on %S, the %* of Thrimidge} {bold red}
-#highlight {^4pm on %S, the %* of Thrimidge} {bold red}
-#highlight {^5pm on %S, the %* of Thrimidge} {bold red}
-#highlight {^6pm on %S, the %* of Thrimidge} {bold red}
-#highlight {^7pm on %S, the %* of Thrimidge} {yellow}
-#highlight {^8pm on %S, the %* of Thrimidge} {green}
-#highlight {^9pm on %S, the %* of Thrimidge} {green}
-#highlight {^10pm on %S, the %* of Thrimidge} {green}
-#highlight {^11pm on %S, the %* of Thrimidge} {green}
-#highlight {^12am on %S, the %* of Thrimidge} {green}
-
-#highlight {^1am on %S, the %* of Forelithe} {green}
-#highlight {^2am on %S, the %* of Forelithe} {green}
-#highlight {^3am on %S, the %* of Forelithe} {green}
-#highlight {^4am on %S, the %* of Forelithe} {green}
-#highlight {^5am on %S, the %* of Forelithe} {yellow}
-#highlight {^6am on %S, the %* of Forelithe} {bold red}
-#highlight {^7am on %S, the %* of Forelithe} {bold red}
-#highlight {^8am on %S, the %* of Forelithe} {bold red}
-#highlight {^9am on %S, the %* of Forelithe} {bold red}
-#highlight {^10am on %S, the %* of Forelithe} {bold red}
-#highlight {^11am on %S, the %* of Forelithe} {bold red}
-#highlight {^12pm on %S, the %* of Forelithe} {bold red}
-#highlight {^1pm on %S, the %* of Forelithe} {bold red}
-#highlight {^2pm on %S, the %* of Forelithe} {bold red}
-#highlight {^3pm on %S, the %* of Forelithe} {bold red}
-#highlight {^4pm on %S, the %* of Forelithe} {bold red}
-#highlight {^5pm on %S, the %* of Forelithe} {bold red}
-#highlight {^6pm on %S, the %* of Forelithe} {bold red}
-#highlight {^7pm on %S, the %* of Forelithe} {yellow}
-#highlight {^8pm on %S, the %* of Forelithe} {green}
-#highlight {^9pm on %S, the %* of Forelithe} {green}
-#highlight {^10pm on %S, the %* of Forelithe} {green}
-#highlight {^11pm on %S, the %* of Forelithe} {green}
-#highlight {^12am on %S, the %* of Forelithe} {green}
-
-#highlight {^1am on %S, the %* of Afterlithe} {green}
-#highlight {^2am on %S, the %* of Afterlithe} {green}
-#highlight {^3am on %S, the %* of Afterlithe} {green}
-#highlight {^4am on %S, the %* of Afterlithe} {green}
-#highlight {^5am on %S, the %* of Afterlithe} {yellow}
-#highlight {^6am on %S, the %* of Afterlithe} {bold red}
-#highlight {^7am on %S, the %* of Afterlithe} {bold red}
-#highlight {^8am on %S, the %* of Afterlithe} {bold red}
-#highlight {^9am on %S, the %* of Afterlithe} {bold red}
-#highlight {^10am on %S, the %* of Afterlithe} {bold red}
-#highlight {^11am on %S, the %* of Afterlithe} {bold red}
-#highlight {^12pm on %S, the %* of Afterlithe} {bold red}
-#highlight {^1pm on %S, the %* of Afterlithe} {bold red}
-#highlight {^2pm on %S, the %* of Afterlithe} {bold red}
-#highlight {^3pm on %S, the %* of Afterlithe} {bold red}
-#highlight {^4pm on %S, the %* of Afterlithe} {bold red}
-#highlight {^5pm on %S, the %* of Afterlithe} {bold red}
-#highlight {^6pm on %S, the %* of Afterlithe} {bold red}
-#highlight {^7pm on %S, the %* of Afterlithe} {bold red}
-#highlight {^8pm on %S, the %* of Afterlithe} {yellow}
-#highlight {^9pm on %S, the %* of Afterlithe} {green}
-#highlight {^10pm on %S, the %* of Afterlithe} {green}
-#highlight {^11pm on %S, the %* of Afterlithe} {green}
-#highlight {^12am on %S, the %* of Afterlithe} {green}
-
-#highlight {^1am on %S, the %* of Wedmath} {green}
-#highlight {^2am on %S, the %* of Wedmath} {green}
-#highlight {^3am on %S, the %* of Wedmath} {yellow}
-#highlight {^4am on %S, the %* of Wedmath} {bold red}
-#highlight {^5am on %S, the %* of Wedmath} {bold red}
-#highlight {^6am on %S, the %* of Wedmath} {bold red}
-#highlight {^7am on %S, the %* of Wedmath} {bold red}
-#highlight {^8am on %S, the %* of Wedmath} {bold red}
-#highlight {^9am on %S, the %* of Wedmath} {bold red}
-#highlight {^10am on %S, the %* of Wedmath} {bold red}
-#highlight {^11am on %S, the %* of Wedmath} {bold red}
-#highlight {^12pm on %S, the %* of Wedmath} {bold red}
-#highlight {^1pm on %S, the %* of Wedmath} {bold red}
-#highlight {^2pm on %S, the %* of Wedmath} {bold red}
-#highlight {^3pm on %S, the %* of Wedmath} {bold red}
-#highlight {^4pm on %S, the %* of Wedmath} {bold red}
-#highlight {^5pm on %S, the %* of Wedmath} {bold red}
-#highlight {^6pm on %S, the %* of Wedmath} {bold red}
-#highlight {^7pm on %S, the %* of Wedmath} {bold red}
-#highlight {^8pm on %S, the %* of Wedmath} {bold red}
-#highlight {^9pm on %S, the %* of Wedmath} {yellow}
-#highlight {^10pm on %S, the %* of Wedmath} {green}
-#highlight {^11pm on %S, the %* of Wedmath} {green}
-#highlight {^12am on %S, the %* of Wedmath} {green}
-
-#highlight {^1am on %S, the %* of Halimath} {green}
-#highlight {^2am on %S, the %* of Halimath} {green}
-#highlight {^3am on %S, the %* of Halimath} {green}
-#highlight {^4am on %S, the %* of Halimath} {yellow}
-#highlight {^5am on %S, the %* of Halimath} {bold red}
-#highlight {^6am on %S, the %* of Halimath} {bold red}
-#highlight {^7am on %S, the %* of Halimath} {bold red}
-#highlight {^8am on %S, the %* of Halimath} {bold red}
-#highlight {^9am on %S, the %* of Halimath} {bold red}
-#highlight {^10am on %S, the %* of Halimath} {bold red}
-#highlight {^11am on %S, the %* of Halimath} {bold red}
-#highlight {^12pm on %S, the %* of Halimath} {bold red}
-#highlight {^1pm on %S, the %* of Halimath} {bold red}
-#highlight {^2pm on %S, the %* of Halimath} {bold red}
-#highlight {^3pm on %S, the %* of Halimath} {bold red}
-#highlight {^4pm on %S, the %* of Halimath} {bold red}
-#highlight {^5pm on %S, the %* of Halimath} {bold red}
-#highlight {^6pm on %S, the %* of Halimath} {bold red}
-#highlight {^7pm on %S, the %* of Halimath} {bold red}
-#highlight {^8pm on %S, the %* of Halimath} {yellow}
-#highlight {^9pm on %S, the %* of Halimath} {green}
-#highlight {^10pm on %S, the %* of Halimath} {green}
-#highlight {^11pm on %S, the %* of Halimath} {green}
-#highlight {^12am on %S, the %* of Halimath} {green}
-
-#highlight {^1am on %S, the %* of Winterfilth} {green}
-#highlight {^2am on %S, the %* of Winterfilth} {green}
-#highlight {^3am on %S, the %* of Winterfilth} {green}
-#highlight {^4am on %S, the %* of Winterfilth} {green}
-#highlight {^5am on %S, the %* of Winterfilth} {yellow}
-#highlight {^6am on %S, the %* of Winterfilth} {bold red}
-#highlight {^7am on %S, the %* of Winterfilth} {bold red}
-#highlight {^8am on %S, the %* of Winterfilth} {bold red}
-#highlight {^9am on %S, the %* of Winterfilth} {bold red}
-#highlight {^10am on %S, the %* of Winterfilth} {bold red}
-#highlight {^11am on %S, the %* of Winterfilth} {bold red}
-#highlight {^12pm on %S, the %* of Winterfilth} {bold red}
-#highlight {^1pm on %S, the %* of Winterfilth} {bold red}
-#highlight {^2pm on %S, the %* of Winterfilth} {bold red}
-#highlight {^3pm on %S, the %* of Winterfilth} {bold red}
-#highlight {^4pm on %S, the %* of Winterfilth} {bold red}
-#highlight {^5pm on %S, the %* of Winterfilth} {bold red}
-#highlight {^6pm on %S, the %* of Winterfilth} {bold red}
-#highlight {^7pm on %S, the %* of Winterfilth} {yellow}
-#highlight {^8pm on %S, the %* of Winterfilth} {green}
-#highlight {^9pm on %S, the %* of Winterfilth} {green}
-#highlight {^10pm on %S, the %* of Winterfilth} {green}
-#highlight {^11pm on %S, the %* of Winterfilth} {green}
-#highlight {^12am on %S, the %* of Winterfilth} {green}
-
-#highlight {^1am on %S, the %* of Blotmath} {green}
-#highlight {^2am on %S, the %* of Blotmath} {green}
-#highlight {^3am on %S, the %* of Blotmath} {green}
-#highlight {^4am on %S, the %* of Blotmath} {green}
-#highlight {^5am on %S, the %* of Blotmath} {green}
-#highlight {^6am on %S, the %* of Blotmath} {yellow}
-#highlight {^7am on %S, the %* of Blotmath} {bold red}
-#highlight {^8am on %S, the %* of Blotmath} {bold red}
-#highlight {^9am on %S, the %* of Blotmath} {bold red}
-#highlight {^10am on %S, the %* of Blotmath} {bold red}
-#highlight {^11am on %S, the %* of Blotmath} {bold red}
-#highlight {^12pm on %S, the %* of Blotmath} {bold red}
-#highlight {^1pm on %S, the %* of Blotmath} {bold red}
-#highlight {^2pm on %S, the %* of Blotmath} {bold red}
-#highlight {^3pm on %S, the %* of Blotmath} {bold red}
-#highlight {^4pm on %S, the %* of Blotmath} {bold red}
-#highlight {^5pm on %S, the %* of Blotmath} {bold red}
-#highlight {^6pm on %S, the %* of Blotmath} {bold red}
-#highlight {^7pm on %S, the %* of Blotmath} {yellow}
-#highlight {^8pm on %S, the %* of Blotmath} {green}
-#highlight {^9pm on %S, the %* of Blotmath} {green}
-#highlight {^10pm on %S, the %* of Blotmath} {green}
-#highlight {^11pm on %S, the %* of Blotmath} {green}
-#highlight {^12am on %S, the %* of Blotmath} {green}
-
-#highlight {^1am on %S, the %* of Foreyule} {green}
-#highlight {^2am on %S, the %* of Foreyule} {green}
-#highlight {^3am on %S, the %* of Foreyule} {green}
-#highlight {^4am on %S, the %* of Foreyule} {green}
-#highlight {^5am on %S, the %* of Foreyule} {green}
-#highlight {^6am on %S, the %* of Foreyule} {yellow}
-#highlight {^7am on %S, the %* of Foreyule} {bold red}
-#highlight {^8am on %S, the %* of Foreyule} {bold red}
-#highlight {^9am on %S, the %* of Foreyule} {bold red}
-#highlight {^10am on %S, the %* of Foreyule} {bold red}
-#highlight {^11am on %S, the %* of Foreyule} {bold red}
-#highlight {^12pm on %S, the %* of Foreyule} {bold red}
-#highlight {^1pm on %S, the %* of Foreyule} {bold red}
-#highlight {^2pm on %S, the %* of Foreyule} {bold red}
-#highlight {^3pm on %S, the %* of Foreyule} {bold red}
-#highlight {^4pm on %S, the %* of Foreyule} {bold red}
-#highlight {^5pm on %S, the %* of Foreyule} {bold red}
-#highlight {^6pm on %S, the %* of Foreyule} {yellow}
-#highlight {^7pm on %S, the %* of Foreyule} {green}
-#highlight {^8pm on %S, the %* of Foreyule} {green}
-#highlight {^9pm on %S, the %* of Foreyule} {green}
-#highlight {^10pm on %S, the %* of Foreyule} {green}
-#highlight {^11pm on %S, the %* of Foreyule} {green}
-#highlight {^12am on %S, the %* of Foreyule} {green}
 
 
 #substitute Afteryule     {Afteryule (8 am-6 pm)}
@@ -322,4 +20,308 @@
 #substitute Winterfilth   {Winterfilth (6 am-8 pm)}
 #substitute Blotmath      {Blotmath (7 am-8 pm)}
 #substitute Foreyule      {Foreyule (7 am-7 pm)}
+
+
+
+
+#highlight {^1 am on %S, the %* of Afteryule} {green}
+#highlight {^2 am on %S, the %* of Afteryule} {green}
+#highlight {^3 am on %S, the %* of Afteryule} {green}
+#highlight {^4 am on %S, the %* of Afteryule} {green}
+#highlight {^5 am on %S, the %* of Afteryule} {green}
+#highlight {^6 am on %S, the %* of Afteryule} {green}
+#highlight {^7 am on %S, the %* of Afteryule} {yellow}
+#highlight {^8 am on %S, the %* of Afteryule} {bold red}
+#highlight {^9 am on %S, the %* of Afteryule} {bold red}
+#highlight {^10 am on %S, the %* of Afteryule} {bold red}
+#highlight {^11 am on %S, the %* of Afteryule} {bold red}
+#highlight {^12 pm on %S, the %* of Afteryule} {bold red}
+#highlight {^1 pm on %S, the %* of Afteryule} {bold red}
+#highlight {^2 pm on %S, the %* of Afteryule} {bold red}
+#highlight {^3 pm on %S, the %* of Afteryule} {bold red}
+#highlight {^4 pm on %S, the %* of Afteryule} {bold red}
+#highlight {^5 pm on %S, the %* of Afteryule} {yellow}
+#highlight {^6 pm on %S, the %* of Afteryule} {green}
+#highlight {^7 pm on %S, the %* of Afteryule} {green}
+#highlight {^8 pm on %S, the %* of Afteryule} {green}
+#highlight {^9 pm on %S, the %* of Afteryule} {green}
+#highlight {^10 pm on %S, the %* of Afteryule} {green}
+#highlight {^11 pm on %S, the %* of Afteryule} {green}
+#highlight {^12 am on %S, the %* of Afteryule} {green}
+
+#highlight {^1 am on %S, the %* of Solmath} {green}
+#highlight {^2 am on %S, the %* of Solmath} {green}
+#highlight {^3 am on %S, the %* of Solmath} {green}
+#highlight {^4 am on %S, the %* of Solmath} {green}
+#highlight {^5 am on %S, the %* of Solmath} {green}
+#highlight {^6 am on %S, the %* of Solmath} {green}
+#highlight {^7 am on %S, the %* of Solmath} {green}
+#highlight {^8 am on %S, the %* of Solmath} {yellow}
+#highlight {^9 am on %S, the %* of Solmath} {bold red}
+#highlight {^10 am on %S, the %* of Solmath} {bold red}
+#highlight {^11 am on %S, the %* of Solmath} {bold red}
+#highlight {^12 pm on %S, the %* of Solmath} {bold red}
+#highlight {^1 pm on %S, the %* of Solmath} {bold red}
+#highlight {^2 pm on %S, the %* of Solmath} {bold red}
+#highlight {^3 pm on %S, the %* of Solmath} {bold red}
+#highlight {^4 pm on %S, the %* of Solmath} {yellow}
+#highlight {^5 pm on %S, the %* of Solmath} {green}
+#highlight {^6 pm on %S, the %* of Solmath} {green}
+#highlight {^7 pm on %S, the %* of Solmath} {green}
+#highlight {^8 pm on %S, the %* of Solmath} {green}
+#highlight {^9 pm on %S, the %* of Solmath} {green}
+#highlight {^10 pm on %S, the %* of Solmath} {green}
+#highlight {^11 pm on %S, the %* of Solmath} {green}
+#highlight {^12 am on %S, the %* of Solmath} {green}
+
+#highlight {^1 am on %S, the %* of Rethe} {green}
+#highlight {^2 am on %S, the %* of Rethe} {green}
+#highlight {^3 am on %S, the %* of Rethe} {green}
+#highlight {^4 am on %S, the %* of Rethe} {green}
+#highlight {^5 am on %S, the %* of Rethe} {green}
+#highlight {^6 am on %S, the %* of Rethe} {green}
+#highlight {^7 am on %S, the %* of Rethe} {yellow}
+#highlight {^8 am on %S, the %* of Rethe} {bold red}
+#highlight {^9 am on %S, the %* of Rethe} {bold red}
+#highlight {^10 am on %S, the %* of Rethe} {bold red}
+#highlight {^11 am on %S, the %* of Rethe} {bold red}
+#highlight {^12 pm on %S, the %* of Rethe} {bold red}
+#highlight {^1 pm on %S, the %* of Rethe} {bold red}
+#highlight {^2 pm on %S, the %* of Rethe} {bold red}
+#highlight {^3 pm on %S, the %* of Rethe} {bold red}
+#highlight {^4 pm on %S, the %* of Rethe} {bold red}
+#highlight {^5 pm on %S, the %* of Rethe} {yellow}
+#highlight {^6 pm on %S, the %* of Rethe} {green}
+#highlight {^7 pm on %S, the %* of Rethe} {green}
+#highlight {^8 pm on %S, the %* of Rethe} {green}
+#highlight {^9 pm on %S, the %* of Rethe} {green}
+#highlight {^10 pm on %S, the %* of Rethe} {green}
+#highlight {^11 pm on %S, the %* of Rethe} {green}
+#highlight {^12 am on %S, the %* of Rethe} {green}
+
+#highlight {^1 am on %S, the %* of Astron} {green}
+#highlight {^2 am on %S, the %* of Astron} {green}
+#highlight {^3 am on %S, the %* of Astron} {green}
+#highlight {^4 am on %S, the %* of Astron} {green}
+#highlight {^5 am on %S, the %* of Astron} {green}
+#highlight {^6 am on %S, the %* of Astron} {yellow}
+#highlight {^7 am on %S, the %* of Astron} {bold red}
+#highlight {^8 am on %S, the %* of Astron} {bold red}
+#highlight {^9 am on %S, the %* of Astron} {bold red}
+#highlight {^10 am on %S, the %* of Astron} {bold red}
+#highlight {^11 am on %S, the %* of Astron} {bold red}
+#highlight {^12 pm on %S, the %* of Astron} {bold red}
+#highlight {^1 pm on %S, the %* of Astron} {bold red}
+#highlight {^2 pm on %S, the %* of Astron} {bold red}
+#highlight {^3 pm on %S, the %* of Astron} {bold red}
+#highlight {^4 pm on %S, the %* of Astron} {bold red}
+#highlight {^5 pm on %S, the %* of Astron} {bold red}
+#highlight {^6 pm on %S, the %* of Astron} {yellow}
+#highlight {^7 pm on %S, the %* of Astron} {green}
+#highlight {^8 pm on %S, the %* of Astron} {green}
+#highlight {^9 pm on %S, the %* of Astron} {green}
+#highlight {^10 pm on %S, the %* of Astron} {green}
+#highlight {^11 pm on %S, the %* of Astron} {green}
+#highlight {^12 am on %S, the %* of Astron} {green}
+
+#highlight {^1 am on %S, the %* of Thrimidge} {green}
+#highlight {^2 am on %S, the %* of Thrimidge} {green}
+#highlight {^3 am on %S, the %* of Thrimidge} {green}
+#highlight {^4 am on %S, the %* of Thrimidge} {green}
+#highlight {^5 am on %S, the %* of Thrimidge} {green}
+#highlight {^6 am on %S, the %* of Thrimidge} {yellow}
+#highlight {^7 am on %S, the %* of Thrimidge} {bold red}
+#highlight {^8 am on %S, the %* of Thrimidge} {bold red}
+#highlight {^9 am on %S, the %* of Thrimidge} {bold red}
+#highlight {^10 am on %S, the %* of Thrimidge} {bold red}
+#highlight {^11 am on %S, the %* of Thrimidge} {bold red}
+#highlight {^12 pm on %S, the %* of Thrimidge} {bold red}
+#highlight {^1 pm on %S, the %* of Thrimidge} {bold red}
+#highlight {^2 pm on %S, the %* of Thrimidge} {bold red}
+#highlight {^3 pm on %S, the %* of Thrimidge} {bold red}
+#highlight {^4 pm on %S, the %* of Thrimidge} {bold red}
+#highlight {^5 pm on %S, the %* of Thrimidge} {bold red}
+#highlight {^6 pm on %S, the %* of Thrimidge} {bold red}
+#highlight {^7 pm on %S, the %* of Thrimidge} {yellow}
+#highlight {^8 pm on %S, the %* of Thrimidge} {green}
+#highlight {^9 pm on %S, the %* of Thrimidge} {green}
+#highlight {^10 pm on %S, the %* of Thrimidge} {green}
+#highlight {^11 pm on %S, the %* of Thrimidge} {green}
+#highlight {^12 am on %S, the %* of Thrimidge} {green}
+
+#highlight {^1 am on %S, the %* of Forelithe} {green}
+#highlight {^2 am on %S, the %* of Forelithe} {green}
+#highlight {^3 am on %S, the %* of Forelithe} {green}
+#highlight {^4 am on %S, the %* of Forelithe} {green}
+#highlight {^5 am on %S, the %* of Forelithe} {yellow}
+#highlight {^6 am on %S, the %* of Forelithe} {bold red}
+#highlight {^7 am on %S, the %* of Forelithe} {bold red}
+#highlight {^8 am on %S, the %* of Forelithe} {bold red}
+#highlight {^9 am on %S, the %* of Forelithe} {bold red}
+#highlight {^10 am on %S, the %* of Forelithe} {bold red}
+#highlight {^11 am on %S, the %* of Forelithe} {bold red}
+#highlight {^12 pm on %S, the %* of Forelithe} {bold red}
+#highlight {^1 pm on %S, the %* of Forelithe} {bold red}
+#highlight {^2 pm on %S, the %* of Forelithe} {bold red}
+#highlight {^3 pm on %S, the %* of Forelithe} {bold red}
+#highlight {^4 pm on %S, the %* of Forelithe} {bold red}
+#highlight {^5 pm on %S, the %* of Forelithe} {bold red}
+#highlight {^6 pm on %S, the %* of Forelithe} {bold red}
+#highlight {^7 pm on %S, the %* of Forelithe} {yellow}
+#highlight {^8 pm on %S, the %* of Forelithe} {green}
+#highlight {^9 pm on %S, the %* of Forelithe} {green}
+#highlight {^10 pm on %S, the %* of Forelithe} {green}
+#highlight {^11 pm on %S, the %* of Forelithe} {green}
+#highlight {^12 am on %S, the %* of Forelithe} {green}
+
+#highlight {^1 am on %S, the %* of Afterlithe} {green}
+#highlight {^2 am on %S, the %* of Afterlithe} {green}
+#highlight {^3 am on %S, the %* of Afterlithe} {green}
+#highlight {^4 am on %S, the %* of Afterlithe} {green}
+#highlight {^5 am on %S, the %* of Afterlithe} {yellow}
+#highlight {^6 am on %S, the %* of Afterlithe} {bold red}
+#highlight {^7 am on %S, the %* of Afterlithe} {bold red}
+#highlight {^8 am on %S, the %* of Afterlithe} {bold red}
+#highlight {^9 am on %S, the %* of Afterlithe} {bold red}
+#highlight {^10 am on %S, the %* of Afterlithe} {bold red}
+#highlight {^11 am on %S, the %* of Afterlithe} {bold red}
+#highlight {^12 pm on %S, the %* of Afterlithe} {bold red}
+#highlight {^1 pm on %S, the %* of Afterlithe} {bold red}
+#highlight {^2 pm on %S, the %* of Afterlithe} {bold red}
+#highlight {^3 pm on %S, the %* of Afterlithe} {bold red}
+#highlight {^4 pm on %S, the %* of Afterlithe} {bold red}
+#highlight {^5 pm on %S, the %* of Afterlithe} {bold red}
+#highlight {^6 pm on %S, the %* of Afterlithe} {bold red}
+#highlight {^7 pm on %S, the %* of Afterlithe} {bold red}
+#highlight {^8 pm on %S, the %* of Afterlithe} {yellow}
+#highlight {^9 pm on %S, the %* of Afterlithe} {green}
+#highlight {^10 pm on %S, the %* of Afterlithe} {green}
+#highlight {^11 pm on %S, the %* of Afterlithe} {green}
+#highlight {^12 am on %S, the %* of Afterlithe} {green}
+
+#highlight {^1 am on %S, the %* of Wedmath} {green}
+#highlight {^2 am on %S, the %* of Wedmath} {green}
+#highlight {^3 am on %S, the %* of Wedmath} {yellow}
+#highlight {^4 am on %S, the %* of Wedmath} {bold red}
+#highlight {^5 am on %S, the %* of Wedmath} {bold red}
+#highlight {^6 am on %S, the %* of Wedmath} {bold red}
+#highlight {^7 am on %S, the %* of Wedmath} {bold red}
+#highlight {^8 am on %S, the %* of Wedmath} {bold red}
+#highlight {^9 am on %S, the %* of Wedmath} {bold red}
+#highlight {^10 am on %S, the %* of Wedmath} {bold red}
+#highlight {^11 am on %S, the %* of Wedmath} {bold red}
+#highlight {^12 pm on %S, the %* of Wedmath} {bold red}
+#highlight {^1 pm on %S, the %* of Wedmath} {bold red}
+#highlight {^2 pm on %S, the %* of Wedmath} {bold red}
+#highlight {^3 pm on %S, the %* of Wedmath} {bold red}
+#highlight {^4 pm on %S, the %* of Wedmath} {bold red}
+#highlight {^5 pm on %S, the %* of Wedmath} {bold red}
+#highlight {^6 pm on %S, the %* of Wedmath} {bold red}
+#highlight {^7 pm on %S, the %* of Wedmath} {bold red}
+#highlight {^8 pm on %S, the %* of Wedmath} {bold red}
+#highlight {^9 pm on %S, the %* of Wedmath} {yellow}
+#highlight {^10 pm on %S, the %* of Wedmath} {green}
+#highlight {^11 pm on %S, the %* of Wedmath} {green}
+#highlight {^12 am on %S, the %* of Wedmath} {green}
+
+#highlight {^1 am on %S, the %* of Halimath} {green}
+#highlight {^2 am on %S, the %* of Halimath} {green}
+#highlight {^3 am on %S, the %* of Halimath} {green}
+#highlight {^4 am on %S, the %* of Halimath} {yellow}
+#highlight {^5 am on %S, the %* of Halimath} {bold red}
+#highlight {^6 am on %S, the %* of Halimath} {bold red}
+#highlight {^7 am on %S, the %* of Halimath} {bold red}
+#highlight {^8 am on %S, the %* of Halimath} {bold red}
+#highlight {^9 am on %S, the %* of Halimath} {bold red}
+#highlight {^10 am on %S, the %* of Halimath} {bold red}
+#highlight {^11 am on %S, the %* of Halimath} {bold red}
+#highlight {^12 pm on %S, the %* of Halimath} {bold red}
+#highlight {^1 pm on %S, the %* of Halimath} {bold red}
+#highlight {^2 pm on %S, the %* of Halimath} {bold red}
+#highlight {^3 pm on %S, the %* of Halimath} {bold red}
+#highlight {^4 pm on %S, the %* of Halimath} {bold red}
+#highlight {^5 pm on %S, the %* of Halimath} {bold red}
+#highlight {^6 pm on %S, the %* of Halimath} {bold red}
+#highlight {^7 pm on %S, the %* of Halimath} {bold red}
+#highlight {^8 pm on %S, the %* of Halimath} {yellow}
+#highlight {^9 pm on %S, the %* of Halimath} {green}
+#highlight {^10 pm on %S, the %* of Halimath} {green}
+#highlight {^11 pm on %S, the %* of Halimath} {green}
+#highlight {^12 am on %S, the %* of Halimath} {green}
+
+#highlight {^1 am on %S, the %* of Winterfilth} {green}
+#highlight {^2 am on %S, the %* of Winterfilth} {green}
+#highlight {^3 am on %S, the %* of Winterfilth} {green}
+#highlight {^4 am on %S, the %* of Winterfilth} {green}
+#highlight {^5 am on %S, the %* of Winterfilth} {yellow}
+#highlight {^6 am on %S, the %* of Winterfilth} {bold red}
+#highlight {^7 am on %S, the %* of Winterfilth} {bold red}
+#highlight {^8 am on %S, the %* of Winterfilth} {bold red}
+#highlight {^9 am on %S, the %* of Winterfilth} {bold red}
+#highlight {^10 am on %S, the %* of Winterfilth} {bold red}
+#highlight {^11 am on %S, the %* of Winterfilth} {bold red}
+#highlight {^12 pm on %S, the %* of Winterfilth} {bold red}
+#highlight {^1 pm on %S, the %* of Winterfilth} {bold red}
+#highlight {^2 pm on %S, the %* of Winterfilth} {bold red}
+#highlight {^3 pm on %S, the %* of Winterfilth} {bold red}
+#highlight {^4 pm on %S, the %* of Winterfilth} {bold red}
+#highlight {^5 pm on %S, the %* of Winterfilth} {bold red}
+#highlight {^6 pm on %S, the %* of Winterfilth} {bold red}
+#highlight {^7 pm on %S, the %* of Winterfilth} {yellow}
+#highlight {^8 pm on %S, the %* of Winterfilth} {green}
+#highlight {^9 pm on %S, the %* of Winterfilth} {green}
+#highlight {^10 pm on %S, the %* of Winterfilth} {green}
+#highlight {^11 pm on %S, the %* of Winterfilth} {green}
+#highlight {^12 am on %S, the %* of Winterfilth} {green}
+
+#highlight {^1 am on %S, the %* of Blotmath} {green}
+#highlight {^2 am on %S, the %* of Blotmath} {green}
+#highlight {^3 am on %S, the %* of Blotmath} {green}
+#highlight {^4 am on %S, the %* of Blotmath} {green}
+#highlight {^5 am on %S, the %* of Blotmath} {green}
+#highlight {^6 am on %S, the %* of Blotmath} {yellow}
+#highlight {^7 am on %S, the %* of Blotmath} {bold red}
+#highlight {^8 am on %S, the %* of Blotmath} {bold red}
+#highlight {^9 am on %S, the %* of Blotmath} {bold red}
+#highlight {^10 am on %S, the %* of Blotmath} {bold red}
+#highlight {^11 am on %S, the %* of Blotmath} {bold red}
+#highlight {^12 pm on %S, the %* of Blotmath} {bold red}
+#highlight {^1 pm on %S, the %* of Blotmath} {bold red}
+#highlight {^2 pm on %S, the %* of Blotmath} {bold red}
+#highlight {^3 pm on %S, the %* of Blotmath} {bold red}
+#highlight {^4 pm on %S, the %* of Blotmath} {bold red}
+#highlight {^5 pm on %S, the %* of Blotmath} {bold red}
+#highlight {^6 pm on %S, the %* of Blotmath} {bold red}
+#highlight {^7 pm on %S, the %* of Blotmath} {yellow}
+#highlight {^8 pm on %S, the %* of Blotmath} {green}
+#highlight {^9 pm on %S, the %* of Blotmath} {green}
+#highlight {^10 pm on %S, the %* of Blotmath} {green}
+#highlight {^11 pm on %S, the %* of Blotmath} {green}
+#highlight {^12 am on %S, the %* of Blotmath} {green}
+
+#highlight {^1 am on %S, the %* of Foreyule} {green}
+#highlight {^2 am on %S, the %* of Foreyule} {green}
+#highlight {^3 am on %S, the %* of Foreyule} {green}
+#highlight {^4 am on %S, the %* of Foreyule} {green}
+#highlight {^5 am on %S, the %* of Foreyule} {green}
+#highlight {^6 am on %S, the %* of Foreyule} {yellow}
+#highlight {^7 am on %S, the %* of Foreyule} {bold red}
+#highlight {^8 am on %S, the %* of Foreyule} {bold red}
+#highlight {^9 am on %S, the %* of Foreyule} {bold red}
+#highlight {^10 am on %S, the %* of Foreyule} {bold red}
+#highlight {^11 am on %S, the %* of Foreyule} {bold red}
+#highlight {^12 pm on %S, the %* of Foreyule} {bold red}
+#highlight {^1 pm on %S, the %* of Foreyule} {bold red}
+#highlight {^2 pm on %S, the %* of Foreyule} {bold red}
+#highlight {^3 pm on %S, the %* of Foreyule} {bold red}
+#highlight {^4 pm on %S, the %* of Foreyule} {bold red}
+#highlight {^5 pm on %S, the %* of Foreyule} {bold red}
+#highlight {^6 pm on %S, the %* of Foreyule} {yellow}
+#highlight {^7 pm on %S, the %* of Foreyule} {green}
+#highlight {^8 pm on %S, the %* of Foreyule} {green}
+#highlight {^9 pm on %S, the %* of Foreyule} {green}
+#highlight {^10 pm on %S, the %* of Foreyule} {green}
+#highlight {^11 pm on %S, the %* of Foreyule} {green}
+#highlight {^12 am on %S, the %* of Foreyule} {green}
+
 

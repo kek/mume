@@ -12,36 +12,36 @@ info lastxp %X
 
 #act {%d xp gained for %*.$}
 {
-        #math {gains[$mob][exp]} {$gains[$mob][exp] + %1};
-        #math {gains[$mob][cnt]} {$gains[$mob][cnt] + 1}
+        #math {gains[$mob][exp]} {*gains[$mob][exp] + %1};
+        #math {gains[$mob][cnt]} {*gains[$mob][cnt] + 1}
 }
- 
+
 #alias {rip}
 {
         #showme {      Average Xp       Total Xp     #   Death List, R.I.P.};
         #showme {----------------------------------------------------------};
-        
+
         #unvar {gains[final]};
-        
-        #foreach {$gains[]} {mob}
+
+        #foreach {*gains[]} {mob}
         {
-                #echo {  %+14G %+14G %+5G   %s}                   
-                        {$gains[$mob][exp] / $gains[$mob][cnt]}                 
-                        {$gains[$mob][exp]}
-                        {$gains[$mob][cnt]}
-                        {$mob};            
-                               
-                #math gains[final][exp] $gains[final][exp] + $gains[$mob][exp];
-                #math gains[final][cnt] $gains[final][cnt] + $gains[$mob][cnt] 
+                #echo {  %+14G %+14G %+5G   %s}
+                        {*gains[$mob][exp] / *gains[$mob][cnt]}
+                        {*gains[$mob][exp]}
+                        {*gains[$mob][cnt]}
+                        {$mob};
+
+                #math gains[final][exp] *gains[final][exp] + *gains[$mob][exp];
+                #math gains[final][cnt] *gains[final][cnt] + *gains[$mob][cnt]
         };
         #showme {----------------------------------------------------------};
-        
-        #math tmp {$gains[final][exp] / $gains[final][cnt]};
-        
+
+        #math tmp {*gains[final][exp] / *gains[final][cnt]};
+
         #echo {  %+14G %+14G %+5G}
-                {$tmp}          
-                {$gains[final][exp]}
-                {$gains[final][cnt]}
+                {$tmp}
+                {*gains[final][exp]}
+                {*gains[final][cnt]}
 }
 
 #action {^You gain a level!$} {#read rip.tin}

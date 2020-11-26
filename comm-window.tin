@@ -1,0 +1,74 @@
+#EVENT {SESSION CONNECTED}
+{
+     #split 10 1;
+}
+
+#VARIABLE {window}
+{
+     {1} {}
+     {2} {}
+     {3} {}
+     {4} {}
+     {5} {}
+     {6} {}
+     {7} {}
+     {8} {}
+     {9} {}
+     {10} {}
+}
+#ACTION {~%1 tells you '%2}
+{
+     showtowin %1 tells you '%2
+}
+
+#ACTION {~%1 chats '%2}
+{
+     showtowin %1 chats '%2
+}
+
+#ALIAS {showtowin}
+{
+     #list window del 1;
+     #list window ins -1 {%0};
+     #draw green rounded box 1 1 10 81 $window[-10..-1]
+}
+
+#ALIAS {test-comm}
+{
+     #draw green rounded box 1 1 10 80 $window[-10..-1];
+     #screen clear top;
+     #showme <138>Bubba tells you 'hello';
+     #showme <158>Pamela chats 'bye';
+     #showme <168>Bobbo tells you 'bli bla blo'
+}
+
+#act {~%1 says '%2} {showtowin %1 says '%2}
+#act {~%1 narrates '%2} {showtowin %1 narrates '%2}
+#act {~%1 tells the group '%2} {showtowin %1 tells the group '%2}
+#act {~%1 roars: %2} {showtowin %1 roars: %2}
+#act {~%1 yells '%2} {showtowin %1 yells '%2}
+#act {~%1 yells %2} {showtowin %1 yells %2}
+#act {~%1 sez: %2} {showtowin %1 sez: %2}
+#act {~%1 hits the bong: %2} {showtowin %1 hits the bong: %2}
+#act {~%1 rages %2} {showtowin %1 rages %2}
+#act {~%1 gurglar: %2} {showtowin %1 gurglar: %2}
+#act {~%1 blogs: %2} {showtowin %1 blogs: %2}
+#act {~%1 hammers: %2} {showtowin %1 hammers: %2}
+#act {~%1 snorfs - %2} {showtowin %1 snorfs - %2}
+#act {~%1 melts: %2} {showtowin %1 melts: %2}
+#act {~%1 says %2} {showtowin %1 says %2}
+#act {~%1 says: %2} {showtowin %1 says: %2}
+#act {~%1 spits %2} {showtowin %1 says %2}
+
+#act {^%S tells you '%*} {#variable reply %1; showtowin %1 tells you '%2 }
+
+#nop act {^%S %S: %3$} {showtowin %1 %2: %3}
+#nop act {^%S %S '%*$} {showtowin %1 %2 '%3}
+#nop act {^-- Arx _.-[ %* ]} {showtowin Arx: %1}
+#nop gag {~%1 narrates '%2$}
+#nop gag {~%1 tells the group '%2$}
+#nop gag {~%1 roars: %2$}
+#nop gag {~%1 tells you '%2$}
+#nop gag {~%1 says '%2$}
+#nop gag {~%1 yells '%2$}
+#nop gag {~%1 sez: %2$}

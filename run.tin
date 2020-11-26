@@ -1,5 +1,5 @@
 #CONFIG           {AUTO TAB}  {5000}
-#CONFIG           {BUFFER SIZE}  {20000}
+#CONFIG           {BUFFER SIZE}  {100000}
 #CONFIG           {COMMAND COLOR}  {<078>}
 #CONFIG           {COMMAND ECHO}  {ON}
 #CONFIG           {CONNECT RETRY}  {15}
@@ -28,10 +28,10 @@
 
 #read keys.tin
 
-#split
+#nop #split 10 1 0 0 2
+#config charset ISO1TOUTF8
 
-
-#config speedwalk on
+#config speedwalk off
 
 #PROMPT {^%.%. %+>$} {\e[1;32m%1%2 %3\e[0;0m}
 #PROMPT {^%.%.>$} {\e[1;32m%1%2\e[0;0m}
@@ -52,11 +52,6 @@
 #alias {eb} {get %0 backpack; eat %0}
 #alias xp {#grep {^Needed: %+ xp, %+ tp. Gold: %+. Alert: %+$}}
 
-#read characters.tin
-
-#read windowbar.tin
-#nop read clock.tin
-#nop read rip.tin
 
 #alias gg {#gag {^$}}
 #alias ugg {#ungag {^$}}
@@ -77,6 +72,8 @@
 #highlight {^The sun rises in the east.$} {red reverse b white}
 #highlight {^The day has begun.$} {red reverse b white}
 #highlight {^You gain a level!$} {blue reverse b white}
+
+#action {^In your dreams, or what?$} wake
 
 #highlight {^You flee %*} {black b yellow}
 
@@ -126,5 +123,12 @@
 
 #log append mume.log
 
-
 #alias ferry {#action {arrived in} {leave; #unaction {arrived in}};#action {arrived at} {board; #unaction {arrived at}}}
+
+
+#read comm-window.tin
+#read characters.tin
+#nop #read windowbar.tin
+#nop read clock.tin
+#read rip.tin
+#read time.tin
