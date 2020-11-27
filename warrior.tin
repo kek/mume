@@ -2,21 +2,18 @@
 #action {^%* death cry as %* collapses.$} {get coins all.corpse; look in corpse}
 
 #action {^%* seems to have recovered %S senses.$} {#echo BASH; bash}
-#action {^As $* avoids your bash, you topple over and lose your balance.$} {#echo BASH; bash}
+#action {^As %+ avoids your bash, you topple over and lose your balance.$} {#echo BASH; bash}
 #action {^Your head stops stinging.$} {#echo BASH; bash}
+#highlight {^Your bash at a young troll sends it sprawling.$} {light green}
 #action {^A brown pond between old branches and roots is here.$} {pour water skin}
 #action {^You are thirsty.$} {drink skin}
 
 #nop unaction {^%* seems to have recovered %S senses.$} bash
-#nop unaction {^As $* avoids your bash, you topple over and lose your balance.$} bash
+#nop unaction {^As %+ avoids your bash, you topple over and lose your balance.$} bash
 #nop unaction {^Your head stops stinging.$} bash
 
-#highlight {^Your bash at $* sends $* sprawling.$} {light green}
-#highlight {^Your bash at a young troll sends it sprawling.$} {light green}
+#highlight {^Your bash at %+ sends %+ sprawling.$} {light green}
 
-#highlight {^As $* avoids your bash, you topple over and lose your balance.$} {light red}
-#highlight {^As a young troll avoids your bash, you topple over and lose your balance.$} {light red}
+#highlight {^As %+ avoids your bash, you topple over and lose your balance.$} {light red}
 
-#action {^As $* avoids your bash, you topple over and lose your balance.$} {#echo XBASH; bash}
-#action {^As an elven slave avoids your bash, you topple over and lose your balance.$} {#echo XBASH; bash}
-#action {^As an earth troll avoids your bash, you topple over and lose your balance.$} {#echo XBASH; bash}
+#action {^As %+ avoids your bash, you topple over and lose your balance.$} {#echo XBASH; bash}
