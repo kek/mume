@@ -8,10 +8,6 @@
 #action {^A brown pond between old branches and roots is here.$} {pour water skin}
 #action {^You are thirsty.$} {drink skin}
 
-#nop unaction {^%* seems to have recovered %S senses.$} bash
-#nop unaction {^As %+ avoids your bash, you topple over and lose your balance.$} bash
-#nop unaction {^Your head stops stinging.$} bash
-
 #highlight {^Your bash at %+ sends %+ sprawling.$} {light green}
 
 #highlight {^As %+ avoids your bash, you topple over and lose your balance.$} {light red}

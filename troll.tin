@@ -3,6 +3,9 @@
 change wimpy
 change linkdrop 60
 change mood aggressive
+change height 9000
+gg
+
 #action {^WARNING: inactivity timeout in %d seconds.$} {time}
 
 #highlight {^A small, mean earth troll} yellow
