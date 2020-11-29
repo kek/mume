@@ -127,8 +127,8 @@
 
 
 #read comm-window.tin
-#read characters.tin
 #nop #read windowbar.tin
 #nop read clock.tin
-#read rip.tin
 #read time.tin
+
+#read characters.tin

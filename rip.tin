@@ -4,9 +4,9 @@
 
 #action {^lastxp %*$} {#variable lastxp %1}
 info lastxp %X
-#unaction {^lastxp %1$}
+#delay 2 {#unaction {^lastxp %1$}}
 
-#action {^%1 is dead! R.I.P.$} {#variable mob %1; info xp to level: %X}
+#action {^%1 is dead! R.I.P.$} {#echo {%1 is dead}; #variable mob %1; info xp to level: %X}
 #action {^%1 disappears into nothing.$} {#variable mob %1; info xp to level: %X}
 #action {^xp to level: %d} {#math {xpgain} {$lastxp - %1};#variable lastxp %1; #showme {${xpgain} xp gained for ${mob}.}}
 

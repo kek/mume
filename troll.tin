@@ -11,6 +11,7 @@ gg
 #highlight {^A small, mean earth troll} yellow
 #nop highlight {^A powerful young troll} yellow
 #highlight {^A disgusting forest troll} yellow
+#highlight {^A stone troll} yellow
 
 #highlight {^A tall troll} {light blue}
 #highlight {^Clunker} {light blue}

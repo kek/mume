@@ -1,6 +1,7 @@
 #EVENT {SESSION CONNECTED}
 {
      #split 10 1;
+     #draw green rounded box 1 1 10 81 $window[-10..-1];
 }
 
 #VARIABLE {window}
@@ -35,7 +36,7 @@
 
 #ALIAS {test-comm}
 {
-     #draw green rounded box 1 1 10 80 $window[-10..-1];
+     #draw green rounded box 1 1 10 81 $window[-10..-1];
      #screen clear top;
      #showme <138>Bubba tells you 'hello';
      #showme <158>Pamela chats 'bye';
@@ -72,3 +73,5 @@
 #nop gag {~%1 says '%2$}
 #nop gag {~%1 yells '%2$}
 #nop gag {~%1 sez: %2$}
+
+test-comm
