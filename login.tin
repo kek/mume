@@ -1,0 +1,3 @@
+#session mume localhost 4242
+
+#delay 4 {#read rip.tin}

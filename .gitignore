@@ -8,3 +8,4 @@ characters.tin
 src
 bin
 *.log
+characters/*.tin
