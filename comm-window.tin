@@ -42,6 +42,11 @@
      #showme <158>Pamela chats 'bye';
      #showme <168>Bobbo tells you 'bli bla blo'
 }
+#ALIAS {clear-comm}
+{
+     #draw green rounded box 1 1 10 81 $window[-10..-1];
+     #screen clear top;
+}
 
 #act {~%1 says '%2} {showtowin %1 says '%2}
 #act {~%1 narrates '%2} {showtowin %1 narrates '%2}
@@ -74,4 +79,4 @@
 #nop gag {~%1 yells '%2$}
 #nop gag {~%1 sez: %2$}
 
-test-comm
+clear-comm
