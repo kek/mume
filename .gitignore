@@ -9,3 +9,4 @@ src
 bin
 *.log
 characters/*.tin
+login.tin
