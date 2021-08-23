@@ -5,7 +5,6 @@
 #gag {^Last reboot due to a %* at %.%.%. %.%.%. %?%d %d:%d:%d %d UTC.$}
 
 
-# nop gå inte ut i gult
 
 
 #substitute Afteryule     {Afteryule (8 am-6 pm)}

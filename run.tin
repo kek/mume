@@ -113,11 +113,7 @@
 
 #highlight ZBLAM {light red}
 
-#nop ETC
-
 #config log plain
-
-#nop read clock.tin
 
 #echo {read run.tin}
 
@@ -127,7 +123,5 @@
 
 
 #read comm-window.tin
-#nop #read windowbar.tin
-#nop read clock.tin
 #read time.tin
-
+#read login.tin
