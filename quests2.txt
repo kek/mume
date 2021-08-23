@@ -1,0 +1,936 @@
+                                                   MUME QUESTS
+
+
+
+  Most quests in MUME are level-dependant, i.e. the higher level you are, the more complicated the quest is. 
+  In most cases all you have to do is ask the mob about 'herblore' to get a herblore quest.
+
+
+
+** Hammer of Belegost Quest (Whitie only)
+   Location: Thorin in the Blue Mountains; Moria.
+
+  Quest: Loot a string of bones from one of Moria smobs and bring them to the King Thorin.
+Smobs that can load the string of bones are: Muranog, Hshkhlahk, Karcarak, Umuk, Shaghosh, Mezagor and maybe Bulag. String can 
+only load if Hammer of Belegost is already loaded on the King Thorin, so it is advised to examine the King prior to checking 
+the Moria smobs. With the string of bones, you will be allowed to descend to the deeper levels of dwarf homes where the King's 
+throne is located even if you aren't a dwarf.
+
+   Reward: The Hammer of Belegost, Blue Mountains citizenship.
+   Achivement: You returned Thror's remains, once lost in Khazad-dum, to Thorin.
+
+
+** Nordri quest (Whitie only)
+   Location: Upper level of the Blue Mountains dwarven city.
+
+  Quest: Ask Nordri about "herblore", then he will talk for a while. When he says "blah blah price." say "price" and then nod 
+when Nordri asks if you agree. Listen to him, write down what he wants and go collect the items. Lowlevels can find required 
+items/weapons/herbs around BM or even inside city - just ask some dwarf to check private dwarven shops inside. Legends 
+can be asked for a crystal from Willow, topaz from Mormaeg, golden nugget or jade bracelet from Moria, or even shining piece!
+
+  Reward: Soothing-draught herblore, 300 exp per your level for each item.
+  Achivement: You have proven yourself worthy to learn how to prepare Nordri's soothing-draught potion.
+
+
+** Vig's quest (Whitie only)
+   Location: Bottom level of dwarven city, w of stairs.
+
+  Quest: Vig the Smelter sometimes runs out of logs for his fire. When he does, he will ask people who come into his shop if
+they're willing to go out and get him some wood. Assuming that you agree to do so, you should go get an axe, and then go out 
+into the Dense Forest just east of the Dwarf Homes (from "End of the Worn Trail", s 3e). Wander around the Dense Forest, and 
+eventually you will find a "majestic looking tree" (it will be clear, when you see it, that this is *the* tree, not just one 
+of the innumerable trees in the forest). In case this tree is chopped already, or simply not popped - there are two other such 
+trees, one s 2w 6s 4e 4s from the same place, and also somewhere n of river, like s 3e 2n 5e. Chop it down, get the wood, bring 
+it back to Vig, and collect the reward money.
+  Just a small warning: the Dense Forest is a maze (i.e. if you go east from tree, then west, there's no guarantee that you'll 
+wind up where you started). If you need to get out of it in a hurry, spam north/west and type 'exits' after each step - to see
+where the exit out to the trail is (works during the day only though). In this forest pop 3 huge black wolves, so it's kinda 
+dangerous for low level characters.
+
+  Reward: 15 silver, ??? exp
+  Achivement: You provided just the right kind of wood to Vig the smelter.
+
+
+** Trapper's quest (Whitie only, low/mid level - sure won't work for hero+)
+   Location: All n, all w, all n, e, n, w from Forlond gates
+
+  Quest: Trapper will offer his quest only if you sell him enough pelts or furs (if he's out of money, buy some pelts from him 
+and sell back), and if noble stag loaded. Then he will start talking about old times - just wait and nod when he asks you if you
+agree. After that go and kill the noble stag - e n w n w 2n 3w s are his 6 rooms. You are not forced to kill him yourself, you 
+are even allowed to not have him on trophy - just ask someone to help you if you cant kill him. Butcher corpse, bring antlers 
+to trapper and give it to him. You can solve this quest max 2 times - second time you need to give (not sell!) him like 10+ 
+furs/pelts (if you lose or hide bow).
+
+  Reward: Yew longbow, quiver with 12 ash arrows.
+  Achivement: You brought the antlers of the noble stag to an elven trapper.
+
+
+
+** Filatior the elven acolyte quest (Whitie only)
+   Location: Grey Havens cleric guild
+
+  Quest: Filatior the elven cleric of Harlond is seeking help to kill evil being in a burial mound east of GH. After agreeing
+to the quest, he will describe the path to this burial mound. Follow the instructions, it is fairly easy (n 6e 5n 2e 2s e from
+Bridge before Grey Havens), kill the skeletons and bring back the rib-bone to him.
+
+  Reward: blessing or str, random weapon (enchanted)
+  Achivement: You have helped Filatior to destroy evil beings.
+
+
+** Grey Havens herbalist quest (Whitie only)
+   Location: Grey Havens
+
+  Quest: Herbalist looks for a beautiful ring or belt for his love. Bring him power-ring or gleaming/golden belt. 
+
+  Reward: Herbal kit upgrade
+  Achivement: Through fortune and decisive action, you improved a herbal kit.
+
+
+** Ellie's quest (Whitie only)
+   Location: Black Hill Village
+
+  Quest: Ellie can be found 2e from Black Hill Market Square. Say yes if she asks if you would go with her to Tavern cellar.
+Follow Ellie when asked and he leads you in there. 'Reveal doll' and give it back to Ellie.
+
+  Reward: 500xp
+  Achivement: You found Ellie's doll and returned it to her.
+
+
+** Black Hill adventurer quest (Whitie only)
+   Location: Black Hill Village
+
+  Quest: Leonard wants your help to gather some equipment for his adventures. If you agree to help he will give u a list of
+items that he needs. Some can be found nearby but you can also buy them from shop.
+(hunting knife, water skin, belt, whetstone, shield of Arthedain, engraved warhammer) 
+
+  Reward: Leonard's notes, 1000xp
+  Achivement: You aided Leonard in following his dream to become an adventurer.
+
+
+** Blacksmith's apprentice (Whitie only)
+   Location: Black Hill Village
+
+  Quest: Apprentice needs your help with ore mining. Nod or say yes when he asks your help. He asks you to bring him ore from
+old mine just some se from Black Hill Village. He will give you pick, lantern and oil. Mine ore and bring it back to him.
+ 
+  Reward: leather backpack, 1000xp
+  Achivement: You aided the blacksmith's apprentice in Black Hill village by bringing him ore.
+
+
+**  Crippled Ranger quest (Whitie only)
+   Location: Black Hill Village
+ 
+  Quest: As you enter crippled ranger house, he will ask your help, nod and again if he asks second time. He wants you to retrive
+Old Lum's old moneybag that is lost in the hills. Reach to On a Rocky Shelf and 'search moneybag'. Bring it back to ranger. Next
+he asks you to help him again, after nodding you need to get Lum's cousin Clem lost old wedding ring. Its located near Way Station.
+ennwssswsw and 'search ring'. Bring it back to ranger for rewards.
+
+  Reward: Moneybag, plain scarf, 1 gold, 1000xp
+  Achivement: You climbed to high heights.
+	      You swam in murky water.
+
+
+** Accomplished hunter quest (Whitie only)
+   Location: Tower Hills
+ 
+  Quest: AS you enter Hunter's Cabin hunter will ask your help, nod and then again when he asks if you are ready for snake hunting.
+Kill 3 snakes in area just n of him. Take corpses with you and give them to hunter. Next task is to slay rats, nod again when asked.
+Head n trought village and theres cellar in farmhouse. Kill giant rats, take 3 corpses with you and give them to ranger. Next you 
+are asked to help out with bandits. Nod when asked and head to Plateau near road to Grey Havens. Kill bandit, loot crumpled, mud-
+smeared piece of paper and bring it back to hunter.
+
+
+  Reward: Snakeskin belt, water skin 200xp; fine pair of soft leather boots, 500xp; pot helm, longspear, 1 gold, 1000xp
+  Achivement: You aided the hunter in the Tower Hills with his slithering snake problem.
+	      You aided Black Hill village and the hunter by cleaning out a rat infestation.
+	      You aided a hunter in keeping the bandits of the Tower Hills at bay.
+
+
+** Pony Breeder quest (Whitie only)
+   Location: Tower Hills 
+
+  Quest: As you enter home of Pony Breeder he will start talking about his problem. If he asks if you have little time to spare, nod.
+Then you need to nod again after he asks if you help him. After that he needs you to get some fresh meat and lure out old wolf. Kill
+some random animal nearby, buther and drop meat sseeenen from House of Pony Breeder. After old wolf appears, kill him and butcher for 
+fur. Take fur to Pony Breeder to recive rewards.
+
+  Reward: Woollen traveller's cloak, leather saddle, 2 large piece of smoked, cured meat, 1 gold, 2000xp
+  Achivement: You helped the pony breeder in the Tower Hills with his wolf problem.
+
+
+** Black Village herbalist quest (Whitie only)
+   Location: Black Hill Village
+
+  Quest: Upon entering herbalist store he asks if you have time to listen his plight, nod and second time when hes asks if you could help him.
+Herbalist looks for three very specific flowers in order to accomplish his cure. 
+Ragwort - Located in marsh some south.
+Hawkweed - Located at Edge of a Barren Plateau near road to GH.
+Anemone - Located in forest east of pony breeder.
+ 
+  Reward: Herbal kit (no upgrades), athelas, bag of cinnamon
+  Achivement: You aided the herbalist in Black Hill village by bringing him three rare plants.
+
+
+** White Tower (Elostirion) quest (Whitie only)
+   Location: Grey Havens
+
+  Quest: Wait till guard will let you enter tower and uuun you will find palantir. When quest loads palantir will show you band of
+men, being led by a merciless-looking bandit captain, marching away from the shipwreck. The men stop, and gather together around 
+some vegetation. They push plants aside, and open some <exitname>. Now you need to find that room what you saw in the palantir and 
+use that exitname to access bandits cave. Gems load in captains pouch. 
+
+  Reward: tiger's eye and polished white quartzite
+  Achivement: You have looked in the palantír of Elostirion.
+
+
+** Ancient dwarven home near Grey Havens (Whitie only)
+   Location; south Grey Havens
+
+  Quest: Quest starts in Tower Overlooking the Plains with Hrivesur. Just enter his room and he will start talking and ask if 
+you would be interested in learning more of an age long since past. Say "yes" and he will send you to his brother in village 
+close west-south from tower. Find Lairesur and 'ask Lairesur Doriath' after that he will ask you to bring him silver-leaf brooch 
+from Elrond. To get brooch you need to bring Elrond thr Book of Kormanolë. After getting brooch bring it back to Lairesur, after 
+some talking he will send you to back to Hrivesur. Go to tower and say "meeting". When Hrivesur asks if you want key say "yes".
+If you miss that line you can start conversation again by saying "meeting" again. Now you need to bring Hrivesur piece of 
+mithril from Moria. He will give u a key (a dark, silvery stone) to open tomb. Entrance is swse from Hrivesur entrance. To open
+it u need cloudless night and moonlight, then you can hold/use stone to reveal secret entrance. Clear rubble and move 3d, kill 
+statue east that guards exit up in underwater room. Someone tests out safe passage to tomb and rest follows him. Use scout or look
+to see if bridge is solid. If you get message: "A few stones fall into the darkness, and you feel you urgently need to turn back 
+and pass to the previous platform, as going ahead is very risky and might be lethal", means dont use that exit and turn back. 
+Taking safe bridge from that room leads to DT. DT's are recoverable. Corpses fall wnde from underwater room. After reaching other 
+side kill statues and loot levers to open sarcophagus for a reward.
+
+  Reward: Large shimmering pearl, ancient metal helmet, silvery wristband, wide silvery wristband, slim silvery wristband, 
+  double-headed axe, white chain mail sleeves+leggings+coif, fine pair of chain mail gloves+hauberk, fine pair of metal boots,
+  metal wall shield, gems
+  Achivement: You have received the key to an ancient dwarven home near Grey Havens.
+
+
+** Aldereon's quest (Whitie only)
+   Location: Elven village n of Road to Grey Havens.
+
+  Quest: Ask Aldereon 'herblore' and he will ask you to deliver letters (around 5 for level 1 to more than 15 for high legend) 
+to his friends. The higher your level is, the farther away you will have to travel to meet the mobs. Better to do this quest 
+at the level one: then Aldereon will ask you to visit just two mobs - librarian and priest in Forlond. Legends very often are 
+forced to travel to Rivendell. 
+  Other recipients for his letters are: Old Wise Hobbit (not far east from Aldereon, but you have to swim across a small lake),
+various guildmasters in most cities, and various hermits who live in seldom visited places in Arda.
+GH hermit lives 1 zone w from Aldereon, Shire hermit - some w and n from Mishel Delving, Fornost one -10s 3e d 2s from gates, 
+road to Tharbad - from Bree s gate max s, e, max s, e until no exit s, then max e, open bush.
+  
+  Reward: Walking herblore, 200 exp per your level for (after level 25 5000exp) each mail.
+  Achivement: You have delivered lots of letters from and to Aldereon, and learned the secret of preparing walking potions.
+
+
+** Ancient weaver quest (Whitie only)
+   Location: s, 2w, 6s, w, 3s from 'Bridge before Grey Havens'
+
+  Quest: Ancient weaver will ask if you would help her, say "yes". Then she will send you to retrive dye from small mine up 
+north near levee area. Find dwarven dye-maker and say "dye", if he asks you if you were sent by that old biddy who makes those 
+green cloaks say "yes". Dye-maker wants you to retrive small patch of dark-green moss. You will need a rope to get that moss. 
+Loads in cabinet n e from dye-maker. Go to 'Cliff's Edge' at river west from mines. 'tie rope tree' and then 'throw rope stump' 
+until rope successfully catches the stump. wwn is moss, take it and bring it to dye-maker. After that you will get rewarded with 
+1 gold and a sealed jug of dye what you need to take to ancient weaver.
+
+  Reward: 3 gold, shiny dagger, 3000xp
+  Achivement: You fetched some dark-green moss to a dwarven dye-maker.
+              You fetched a jug of dye, formula no. 58 (forest green), to an elven weaver.
+
+
+** Elven Chief's Quest (Whitie only)
+   Location: Elven village north of the Road to Grey Havens, west of Aldereon village.
+
+  Quest: Ask the chief of this village about 'wine'. He will tell you about his favourite wine, Old Winyard. If the quest is 
+available, he will inform you that his last barrel of Old Winyard is gone. In this case, ask him about the 'barrel', and he 
+will tell you the story of how it was stolen. There is a bandit hideout to the northeast where you can find 'A small ironbound
+barrel made of fine oak'. Bring it to the chief (thieves and brigands in the room will prevent you from taking it, so wait for 
+them to leave, or kill them).
+
+  Reward: An exquisite wine glass full of wine
+  Achivement: You have successfully returned the stolen barrel of wine to the elven chief.
+
+
+** Lonely Giant's quest (Whitie only)
+   Location: Possible load places The Shire: one room N from Michel Delving fountain; E from Green Dragon in Hobbiton; N from 
+marketplace in Dwaling; in Rushey; at "slight depression" (up from the fox hole); NW from Wittforrows and in Hills of Scary. 
+If you can't find the giant - ask any mage to locate him ('locate life' spell). He doesn't always load.
+
+  Quest: You must find a LOT of herbs and other things and bring them to him. He frequently asks for:
+
+  HONEYCOMB           EGG                 APPLE               SACK OF FLOUR
+  STRAWBERRIES        BLUEBERRIES         BLACKBERRIES        BLACKCURRANT
+  CINNAMON            VANILLA BEAN        CARDAMOM            JUNIPER BERRIES
+  RED ROSE            WHITE ROSE          WATER LILY          HONEYSUCKLE
+  FOXGLOVE            FOXTAIL             TARRAGON            THYME
+  ROSEMARY            GOOSEGRASS          CLOVER              CLOVES
+  SAGE                ATHELAS             MARJORAM            FIGWORT
+  GINSENG             COMFREY
+
+Try to find all these things, but if you can't find such rare herbs as foxtail, ginseng, and comfrey, don't worry. Maybe he 
+won't ask you for it. Do not crush the plants: sometimes he asks for leaves/flowers, sometimes for plant itself. When you find 
+the giant, comfort him. Nod after he asks you if you want to help him, and he will start following you. Give him honeycomb, 
+listen carefully what he wants and give him herbs. You have a very short time to solve his quest - 40-48 MUME hours, so all
+herbs must already be in your backpack - except things that are always available in GH herbalist shop (CINNAMON, CLOVES, VANILLA).
+You can run to GH with giant, but he can become moveless soon - in such case leave him in some safe place (just flee from him), 
+and return with herbs. After giving him all that he wants, ride him and he takes you to his house near Michel Delving and be 
+happy listening to him.
+ Btw, this quest is as level-dependant as others - so if you find him at level 1-5, he will teach you how to cook bannocks just 
+for the honeycomb! Legends can be asked for ginseng, comfrey and foxtail - each of these herbs load just in few places on Arda, 
+so almost impossible to find them without knowing where they pop. 
+
+  Reward: Baker herblore, 1000 exp.
+  Achivement: You befriended the lonely giant and visited his home in the Hills of Faraway.
+
+
+** Shopkeeper's quest (Whitie only, level 1-4)
+   Location: Hobbiton, 2e s from central.
+
+  Quest: Shopkeeper will ask you to find his daughter as soon as you enter his shop - if your level is appropriate, and if no 
+one did this quest just before you. Daughter is usually located somewhere in Shire, possible five locations:
+-From “A Spring” in hills of Scary: 2e, open branches, s, 4e, n, w
+-From Brandywine Bridge: 7w, 6n, 5e, open exit e, e
+-some down from Michel Delving
+-From Brandywine Bridge: e, 2s, 2e
+-From Tuckborough Market Square: d, w, 2n, open exit d, d 
+Just enter her room and she will start following you. Lead her to her father.
+
+  Reward: Forest green cloak, 1000 exp, 1 gold.
+  Achivement: You found the lost daughter of a Shire shopkeeper and brought her home safely.
+
+
+** Shire citizenship quest (Whitie only)
+   Location: Michel Delving, secretary
+
+  Quest: You must kill great wolf from Shire wolfpack and bring his fur to secretary in order to receive citizenship. Wolfpack 
+repops each winter in Dwaling in Shire, once per winter. Usually it consists of 4 pack leaders (great black wolves) and 18 grey/
+black/huge black/starving ones. Each who needs citizenship needs his own silvery fur and also needs to have great black wolf in 
+trophy.
+
+  Reward: Shire citizenship, 2 gold.
+  Achivement: You battled the great black wolves during the fell winter.
+
+
+** Harle quest (Whitie only)
+   Location: Shire, Fangorn Forest 
+
+Quest: To start the quest you have to find Harle, he loads in the Shire Inns: The Green Dragon and The Floating Log. He appears 
+as "An aloof hobbit is here, babbling wide-eyed about his adventures" To get the quest, ask him "entwives", he then begins to 
+follow you, take him to Tom Bombadil and then to Treebeard in Fangorn, he has very bad moves and he doesn't ride so it's easier 
+if you have a bobber with you.
+
+  Reward : +1 con for 1 real life week.
+  Achivement: You have escorted Harle all the way from the Shire to the depths of Fangorn, to bring the evidence about the 
+              entwives to Treebeard.
+
+
+** Bree Weaponsmith's quest (Whitie only,level 4-9)
+   Location: Bree, Weapon shop
+
+  Quest: You will be asked to find and bring "valuable" rusted dagger - just enter shop at the proper level. This dagger is held
+by the chief of the ruffians, Scarred, under the bark in forest some n of Bree. Kill him (or just ask some friend to kill him) 
+and bring dagger to smith. You can not start quest after 9 level, but if you did it before and leveled since that, smith still 
+gives the reward if you bring him the dagger. Or, if you bring dagger to smith without being on quest (if you do this quest second
+time and/or after level 9), smith gives you as reward stone and gold only.
+
+  Reward: Whetstone, 2 gold, 2000 exp.
+  Achivement: You recovered the antique dagger sought by the Bree weaponsmith.
+
+
+** Bree Citizenship Quest (Whitie only, lev 1-??)
+   Location: Bree, in the mayor's office.
+
+  Quest: Go to Bree mayor's office and say 'citizen'. If you dont have enough money for citizenship, secretary will give you 
+'a wrinkly map'. The map leads to a treasure that will at the very least cover the cost of the citizenship. The map will roughly 
+tell where the treasure is hidden. A text will disclose a location near the treasure, for instance near the Road to Fornost or 
+some of the villages in the Shire. The exact room location is marked by a red 'X' on a 6×6 room map. Look for roads, forests, 
+houses, water and the like and compare with the room types given by a mapper. In the marked room, type 'search' and a message 
+saying that the map is used to search for hidden treasures will appear. A random amount close to 3 gold and a random piece of 
+equipment will be discovered. Items received so far includes a longbow, forest green cloak and silver cloakpin.
+
+  Reward: About 3 gold, random piece of eq.
+  Achivement: You have discovered a buried treasure.
+
+
+** Dunadan Ranger quest (Whitie only)
+   Location: Near Weathertop (from Nen-I-Sul bridge: 6w, 2n, open culvert, e)
+
+  Quest: Ranger will teach his lore to well travelled and good aligned persons ("sent to Arda" is enough, "firm believer" doesn't
+fit) when they complete his given task. The task involves three objects that must be brought to the ranger. The items may be 
+different for each person, the following items are known as possible quest items.
+
+    White fur from the Huge White Bear.
+    A claw from a Cavern-wing.
+    The heart of the Ice-Demon.
+    A sickly green mushroom.
+
+  You must find these items ALONE (means: no same side player can be in the zone when you pick up these items). When you pick
+up an item in question (mushroom, icy heart, etc), noone can be in zone, you should NOT be grouped, and you should NOT be 
+following anyone. You need approximately 2.8k*level tps. It isn't real formula, though - but it works until lev27. Gather all 
+items he asked and return to him alone to recive herblore. If you fail the quest (i.e. ranger is dissatisfied with the way you 
+got the items), your slate is wiped clean in about a RL month.
+
+  Reward: Travelling herblore.
+  Achivement: You traveled far and wide to prove yourself worthy to the Dunadan ranger.
+
+
+** The Golden Mantle (Anyone)
+   Location: Brush
+
+  Quest: Find the majestic brush-lion. Kill him, butcher for his fur. Go see the Fornost tailor with 50 gold to get your mantle. 
+You will give the fur to him, and it will automatically take 50 gold from you.
+For Orcs, it is the exact same thing, but at Kormock instead of at the Fornost tailor. The reward in this case will be a scorched, 
+grisly fur, which is identical to the imposing, golden mantle except in weight (it is a few pounds heavier).
+
+  Reward: an imposing, golden mantle (white side) or a scorched, grisly fur (dark side)
+
+
+** Warrens Hobbit Quest
+   Location: Warrens
+
+  Quest: Open pendoor (24 str needed) in Warrens or bash stonedoor and let the hobbit in there follow you. Bring him to the Stoor
+village some west of Windswept.
+
+  Reward: 5 gold, honey-scented cake, amethyst, fishing rod and small jewel-box.
+  Achivement: You rescued a Stoor hobbit from the slave pit in the troll warrens and helped him get home.
+
+
+** Amanrandil's Quest (Whitie only)
+   Location: Amanrandil, in the temple east of the ruined causeway east of Tharbad.
+
+  Quest: This quest will trigger when a player enters Amanrandil's room - usually when Amanrandil is waiting in the cubicle 
+between speeches. He will give a speech about how he sent a follower on an errand, and the follower never returned. Amanrandil 
+will be happy when you find the diary of his follower and deliver it back to him. Diary loads either in the belt pouch worn by 
+Wyrdda; somewhere in Wulfston (Broggha's village) on the animist, or on the twisted beast; in the pouch worn by the orkish chieftain
+in Dunland or the pouch worn by his shaman and possibly more.
+
+  Reward: Sacred cloak, ceremonial dagger.
+  Achivement: You retrieved the diary of Amanrandil's emissary, who perished on the way from Isengard.
+
+
+** Ost-in-Edhil quest (Anyone)
+   Location: Eregion, s from Hollin at cliffs
+
+  Quest: Both darkies and whities can solve this quest, thus I will write solutions for both sides. Whities get the quest from 
+Elrond, darkies from the BN sage: ask them about 'Ost-in-Edhil' (not case-sensitive). You can ask them in any language, but 
+Elrond doesn't understand Westron well, as well as Sage doesn't speak Orkish. So, if you speak Sindarin/Morbeth well, ask in these
+languages. They will start to talk if no one is solving this quest at the same time (if they don't it means someone is solving it
+already, just wait a bit), and then they will give you a key. Then go to the castle in Ost-in-Edhil and find the tower in the 
+center of it. Beware: there are tons of different dts in the area - eastern part of zone is 6 instant dts; near are 3 times ones 
+(slowly drag you to the east - and there instant dts kill you); vines trap you and slowly kill (considered dtdeath though) - but
+you can kill vines of course, like hero level needed; n and e from the mother eagle on the top of tower are dts too (noflee, as 
+usual).  At the bottom of tower there is door which can be opened with amethyst: type 'put amethyst inset'. To get it back later,
+indeed, 'get amethyst inset'. Wait till door opens and proceed n. You can get gem back (as both close and open are delayed), but
+then you will be trapped inside - so be sure that you know how to do monsters/get away via underwater. Here starts a noport area.
+In the center of this hidden square is one more instant dt. Somewhere in this area loads hidden main quest item - Book of Kormanole
+(just try reveal in each room). There are 2 excavators in this area, and they will ask you to give them book: don't - they are 
+minions of Saruman. If you give them book, they will reward you with whole 2 gold, give you 'treasure map' leading to dt, and 
+disappear (no way to track, kill and get book back). Kill them instead, they load Cardolan+russet+aged flask (useless, but can 
+be sold). They shoot/flee after attacked, so just stay in room after they flee, and spam search q/nuke. Then the quest divides 
+into two parts: either bring the book and the key to Elrond or Sage and get your reward (from Elrond - silver-leaf brooch; from sage
+- around 20 gold), or claim the book and forge a ring.
+  If you decide to forge, in the northern part of the square is the entrance to the underground part. There live several bats and
+4 scaled guardians. These mobs instafollow, call eachother, instahit, choose random targets and can instaheal themselves for like 
+1/3 hps. So: at least 1 buffer and 2 nukers need to kill them. Guardians can't follow further north than 2s from entrance, and 
+also to Gem/Gless/etc -works (max w and max e rooms), so rest there after each one is killed. First buffer enters, guardians hit 
+him, then casters enter, nuke one dead and leave n, then only buffer flees. Have swim off while doing guardians, otherwise you 
+can flee into water (central room); 2n from it is instant dt, and as one who flees from guardians will spam n to reach safe room,
+it can ends in dt here. Though, if someone dies here, corpse will be recoverable: current will drag it southwards, away from dt.
+Before you fight, unfollow everyone in case you flee. You don't want to meet up after flee and lead each other onto the collapsing
+bridges. After you kill first, go 2e one by one - otherwise bridge will collapse under your feet, throwing you into current below.
+Kill second guardian (now safe room ne from it), get full, then someone must lure guardians from the central room - nuke them dead
+too. Then find golden band (in each room in this area - random too), it is sometimes hidden, sometimes just lies on the ground.
+  The level is symmetrical here:
+
+       !
+      S*=*S
+       +@+
+      S*=*S
+
+    ! is where you enter
+    = is collapsing bridge
+    S are safe rooms
+    * are Coruscate Hall
+    + are rooms with a single guardian
+    @ has 2 guardians and the dt to north.
+
+  Central room is start of noboat current. 2n from this room is dt; some s/d (follow current) - underwater room where in the 
+skeleton loads hammer which helps to fix your armour (even fine/shining!) as whetstone fixes weapons. All swim on. One (not leader)
+must wear harness (on chain in room 1w from central). He must enter central room and open silverpanel. It is delayed door in room 
+with current, but harness will keep him there while he opens door. When door is open, remove harness, narrate for others to come,
+and quickly go d. Wait till water goes away and metaldoor opens, then go 2w to noldor statues. Btw, you cant remove harness while
+fighting, and cant flee either - so dont wear it while mobs alive, and try not be caught by opposite side players. You can not 
+forge ring by your own choose. At the one time one ring can be forged only; which one exactly is written in the book. Ring must
+be forged from the band and some gem. There are five types of jewelled rings. Book can give you a hint - which ring can be created
+on current repop: it's colour of gem.
+
+-Red glow = ruby
+-Maroon = garnet 
+-Hard and rare blue = topaz 
+-Fiery blue = opal
+-Deep green = emerald 
+
+  These rings are considered powerrings, and can not be worn at the same time as 
+old powerrings (ruby/iron/copper). To forge ring rest full, and try pass statues. The higher your will, the higher chance you 
+have (no alignment involved though). If you fail - just rest full and try again (more chance to pass with full stats). Noldor 
+can pass statues without any problems; Unqalome bracelets can help non-noldor to pass. If you are neither Noldo, nor know Unqa
+zone to get bracelet, get dispeller here: statues are not alive (not mobs but items, in MUME terms), they don't block entrance
+themselves - their magic does. With no dispeller, just try to walk in (sometimes takes hour rl or more). Once you are in, wield
+band, hold gem (or vise versa) and 'forge ring'.
+  Forging a ring is a delayed action. If you are interrupted while doing it, or you interrupt it yourself, the ring and the gem 
+disintegrate. If you have a wound that bleeds on a tick, it will interrupt forging also. Thus make sure you don't have ANY kinds
+of wounds (it is rare, but has happens that unbound light wound becomes deep). Once you leave zone all mobs repop straight away.
+  Some more notes: Only the person who read the book can forge. The knowledge decays so you can only do it for a limited (random)
+period of time after. Don't know how long exactly but sometimes 2 rl days is too long, and sometimes rl week is ok.
+  To use cross-pein hammer you must make a camp fire, hold hammer, remove armour then 'use hammer <armour>'.
+
+There is complete list of "gem - effect".
+    red ruby  - manaregen +4, affects you by 'lethargy' when you remove it
+                (slows manaregen 5 ticks)
+    topaz     - +2str once per day, affects you by 'tiredness' when you remove
+                it (-1.5 moveregen 5 ticks)
+    garnet    - cure critic 3x per day, affects you by 'hagardness' when you
+                remove it (-5 ob)
+    opal      - scouting ring (allows you search adjacent rooms for enemies,
+                blinds you at beginnings of next 6 ticks when you remove it);
+                to use it - 'look <dir>'
+    emerald   - remove poison, affects you by 1-2 random poisons when you
+                remove it (unless you save - thus orcs can get no poison at all)
+
+  Reward: Brooch from Elrond, gold from Sage, or jewelled ring.
+
+
+** Battle-standard (Whitie only)
+   Location: new ABR 
+  Quest: To start this it, kill Brolg the Orkish Shaman, who resides in the tower on the Ancient Broken Road. Word of warning:
+when he gets to bad, he will flee and recall away. You can find him w s 3w s 2w 2n open rockface 2e n from outside the tower door.
+When he is here, he will summon up to two dark wraiths if you give him a chance. Kill him, and loot his belt pouch and his orkish
+battle-standard. Loot the tarnished silver key from the belt pouch, and take the orkish battle-standard to Erestor in Rivendell. 
+Erestor will ask for the battle-standard - give it to him, and listen to what he has to say. He will give you the quest. Now, go 
+to the hidden 'tombstone', which is w s w 3s 6e s from outside the tower door. Down from here is a nasty room - in it live two 
+stone statues, a stone beast, a glowing spirit, and two dark wraiths. Kill them all. To the north is a secret exit: 'pillars', 
+and behind it are a ghost and another glowing spirit. Kill them and the quest is completed. Use the tarnished silver key from 
+Brolg to unlock and open the chest in the main room, and loot it. 
+Note: to enter the tomb you need the person on quest ("keeper of knowledge bestowed by Erestor"), bless and good align. Without 
+it you will get some muddled damage and be returned to the room up from the 'tombstone'.
+
+  Reward: 3 gold, metal wall shield, skeleton - in the chest. In the skeleton is a metal set, a gem-inlaid knife, two gold rings, 
+          and a silvery crown.
+
+
+** Elven scout quest (whitie only, any level) 
+   Location: from ABR thornbushes s max e s w, call or pick/open hillside 
+
+  Quest: Upon entering their hidden camp, they may start talking - nod when they ask if you are willing to help, and they will 
+give you a letter. Take this letter to Elrond, who will reward you. The amound of experience you recive will go smaller by every
+time you complete this quest.
+Tarkhnarb orcs can kill scouts and bring letter to Great Goblin.
+ 
+  Reward: exp and either 5 gold, or 2 gold + miruvor. 
+  Achivement: You delivered to Elrond a letter from his scouts with important information about the movements of orc forces.
+              You intercepted an important letter for Elrond from his scouts and delivered it to the Great Goblin. 
+
+** Ithildir and Annariel (whitie only)
+   Location: Western Lorien and OOC
+
+  Quest: Enter Ithildir's room 2n u from greenery in the west Lorien zone and he will start talking. When he asks you 'Are you
+seeking safety, adventure, or fighting our common foe?', say 'adventure'. He will continue talking and nod after he has asked to
+help him. Then he asks you to bring home Annariel Tingliwinde and gives you a beryl ring, so that she recognizes you as the rescuer.
+Annariel is a captive in OOC, 2n from orc prisoner. Kill sage and loot his key in order to unlock door north. Adrahar the
+appreintance, who guards here, flees when you enter. Give the beryl ring to Annariel and group when she starts following you.
+Annariel will not follow you if you decide to jump from OOC backway, you must walk her via Redhorn Pass to Ithildir. Take her out
+from the OOC and protect her. On Redhorn pass you are ambushed by Adrahar, 2 uruks and 2 orcs. A Morgundul uruk plants a solid kick
+in Annariel Tingliwinde's rib-cage, who collapses and falls to the ground. Kill them, on bad Adrahar flees and you can hunt him in
+Redhorn or skip. Cure Annariel after Adrahar dies or flees, you cannot do that when he is in the room. When you arrive to Ithildir,
+he rewards you with a silver morion.
+
+  Reward: silver morion
+  Achievment: You have rescued Annariel Tingliwinde from captivity.
+
+
+** Fangorn leaf-cake quest (Whitie only)
+   Location: Fangorn Forest
+  Quest: Locate the diary of a long dead traveler, it loads in an abandoned village 2s w 4s 2e from the entrance to orkish 
+mining camp. Once you have the diary go to the sad looking tree in Fangorn, he loads near Treebeard (4e n 5e n 6e 2n e) east of 
+the room with 3 brown fungi. Kill funguses to enter his room. Once you find the sad looking tree say "orc" a few times in westron,
+make sure you have the diary in inventory. Give the diary to the tree. 
+
+  Reward : Leaf-cake herblore.
+  Achivement: You have awakened a drowsy ent in Fangorn, and learned how to prepare a potion to cure the flu.
+
+
+** Poisoned Forest quest (Whitie only)
+   Location: Eastern Fangorn
+  Quest: Go to Treebeard's hut and ask him about "poison". He will talk a bit about  a part of the forest which is found in the 
+eastern portion of fangorn (some north of Beechbone). Once you find the poisoned forest you need to deal with the roots, killing
+them is of no use since they block the entrance down to the cave where the creature responsible for the poisoning can be found.
+Cast 'remove poison' on roots until it dissapears. Once the roots are gone, enter the cave, kill the creature and butcher it.
+Take the evidence back to Treebeard who will reward you by sharing some ent-draught with you. You have a limited time to get the
+ chelicera back to Treebeard after triggering his quest. If in doubt, get the chelicera, then go to Treebeard and trigger the
+quest before giving it to him. For orcs give the Fang to the scout GM in NOC to make a dagger with very strong venom. 
+
+  Reward: +1 will for 1 real life week.
+  Achivement: You have aided Treebeard in cleansing Fangorn.
+
+
+** Beechbone's bowl (Whitie only)
+   Location: Eastern Fangorn
+  Quest: Find Beechbone, he is the sad ent that lives in eastern Fangorn. Comfort him and ask him 'why sad'. After asking for
+your name he will tell you his story. He will ask you to recover his bowl, once you agree with him go some w and south till 
+you find the forest clearing. Make sure you get one of the very heavy branches that lie around Fangorn. You will need it to to
+lift the jar under which you will find his bowl. Exit south from clearing is stranglingbirch, go all south and then "lever jar",
+go down and reveal bowl and take it back to him. He will thank you and reward you.
+
+  Reward: Rough wooden horn (when you blow it, roots that might be holding you, release their grip)
+  Achivement: You found and returned the lost bowl of Beechbone the Ent.
+
+
+** Darkened Orkish Axe quest
+   Location: Fangorn, 2n 2e from Leaflock the Ent.
+
+  Quest: Find the beech tree with this axe in his back. It mutters about an axe in his back. When ent turns around and exposes
+his back free your both hands and 'remove axe tree'. After that he destroys axe and will reward you with xp.
+
+  Reward: 2000 exp.
+  Achivement: You helped an Ent by removing an orc axe from its back.
+
+
+** Haldin the Marshal's quest (Whitie only)
+   Location: The Eyot in the Isen, south of Isengard, where Haldin the Marshal is.
+
+  Quest: Haldin will start speaking, seemingly at random. He says that Broghha, who lives in Wulfston, west of the Isen, has
+been giving him trouble. He asks that you kill him, and bring him Broghha's spear as proof of the deed. Kill Broghha, bring
+Haldin the steel-tipped spear.
+
+  Reward: horse of the Rohirrim.
+  Achivement: You brought Haldin the Marshal the spear of the Dunlending chieftain Broghha.
+
+
+** Jeraton the Woodcutter's quest (Whitie only)
+   Location: Village west of Lorien on the way to Fangorn
+
+  Quest: As you explore the village one of the women (Berel) will try to steal from you (and fail). She will then tell you 
+of her problems and direct you to her husband (Jeraton). When you find him he will elaborate on this and ask for your assistance
+in getting a tool for his work. Get him a woodsman axe and he will thank you and reward you.
+
+  Reward: Stout oaken stick (Move cost -4%)
+  Achivement: You obtained a new wood axe for woodcutter Jeraton, so that he can make a living.
+
+
+** Dagnir's ghost's quest (Anyone)
+  Location: Lothlorien, 3n 1-2e from marshes
+
+  Quest: Ghost is visible at night only. When you approach him, he starts talking. Nod when he asks if you want to listen him,
+and listen. After he finishes, go to marshes and let the mud suck you into a small cave. There in the cave live 4 mottled snakes
+and 2 subterranean lizards. In random room of caves lies a skeleton - loot it. To get out you need to kill both lizards and drag
+their corpses to the central room - you can only climb up stepping on the lizard corpses (mottled corpses don't fit). Walk back
+to ghost and give him medallion from skeleton. Listen to him until his trapped soul goes free, then try to pick up the medallion.
+It will crumble and reveal a jade-encrusted key. Go east, open hatch, down, unlock/open archeddoor, 2 south, open curtain, 
+west and loot.
+
+  Reward: Double edged eket, amethyst, softly glowing green cup.
+  Achivement: You freed the spirit of Dagnir the Man.
+
+
+**Anarwen's Quest (Whitie only)
+  Location: A short ways north from Caras Galadhon.
+
+  Quest: Find Anarwen the priestess resting northeast in the zone in the garden. Examine tree to see if the quest loads, if it
+says “The mallorn-trees seem to be afflicted by some disease” then the quest loads, if it says, “The twin mellyrn stand proudly
+on the sides of the entrance to the arbour” then no quest. It is also possible to examine “flowers” to see if they are fading or
+not. She will talk to you and if you agree some exit down opens. Kill the cloud of mist 2d and Anarwen will be happy.
+
+  Reward: 3 gold, ginseng root, 1-3 athelas leaves 
+  Achivement: You helped Anarwen to release the evil spirit that had crept under the roots of the Golden Wood.
+
+
+** Elven bag quest (Whitie only)
+   Location: Eastern Lorien
+  Quest: You need to find the key and letter that load in two skeletons east of the Anduin. The letter loads in a skeleton inside
+a cave, guarded by a tentacled beast. You can find the cave from the exit "mud" (where lizards appear) by going 4n all e n d d.
+Kill the beast and loot skeleton. The letter will hint you the name of the room where you find the next skeleton. Find room (it
+is not far from there) and open rockpile. Go down and kill first room of snakes. The rooms here seem unstable and I think casting
+earthquake spells might be a BAD idea. Open collapse and go east. You will find MORE snakes in an even more unstable room (exit
+back closes on entrance so you need to re-open if you are going to try to flee). In addition there is muddled damage from falling
+debris. Kill rattlesnake and loot skeleton for key (leaf). Take letter and leaf to Echtelion, who will mend key. Now go to
+waterfall that is found 6e s e from "mud" this will lead you to underground cavern. Secret door s in eastern room is wall. Put 
+leaf wall, open and loot chest. You have to swim underwater to get out into the Anduin.
+
+  Reward: 2,500+ xp, a small elven bag (endless water+lembas wafers and ropes, fishing rods and hunting knives)
+  Achivement: You have acquired a fixed leaf-shaped key, made of shimmering metal. It must be important!
+
+
+** Enidale quest (Whitie only)
+   Location: Eastern Lorien
+  Quest: Coubhel the elven wanderer will give you an idea, depending on his response when you ask him "lute", whether or not you 
+can complete the quest. Coubhel wanders in area past the eastern lorien bridges (he sneaks). Find Offa the scout (who will also 
+try to get you to kill Coubhel if you are not an elf, beware though, while you will get rewarded, this is an evil act). Offa will
+sneak and shoot/flee you. Kill him and loot the key in his pouch. Go to the Muddy Sinkhole (4e 2n e s from gardengate) kill vines.
+ Open deadplants, go down, kill the spiders and loot the chest (it loads some rings which can be sold) golden quartzite ring is 
+Enidale's ring. You can keep the ring, which acts as a bless ring when used or give it to Enidale's ghost (he appears and night 
+around the ruined barn some e and n from orkish rider camp across Anduin river. He will reward you with a black metal wristband
+which converts some offensive bonus into defense when you are on wimpy mode.
+
+  Reward: Little over 2 gold in coins and rings, golden quartzite ring OR black metal wristband
+  Achivement: You returned to the ghost of Enidale the ring of his people.
+
+
+** Ropemaker's Quest (Whitie only)
+   Location: Lorien at the ropemaker.
+  Quest: Ask the ropemaker about 'hithlain'. He will talk for a while, then direct you to Cirel the elven navigator (southeast
+of Caras Galadhon, north of the river). Find a misty plant, which loads in various places by rivers in Lorien and the Anduin Vale,
+and bring it to Cirel. He will give you a fine elven rope; this rope can be retrieved from the bottom of slopes, but it may only 
+work for whomever did the quest to obtain it.
+Giving the plant to Cirel also works to earn the fine elven rope, sometimes he only gives 2 golds as a reward.
+
+  Reward: Fine elven rope.
+  Achivement: You found a misty hithlain plant and brought it to Cirel.
+
+
+** Tethel's Quest (Whitie only)
+  Location: Secret flet on the western edge of Lorien near the river.
+  Quest: When you enter, Tethel may ask you if you are headed West. If she does and you agree with her, then she will tell you 
+of an unfortunate elf who met a grisly end nearby. The dead elf was carrying a tome to Rivendell. You must seek it in the Redhorn
+Pass where it loads hidden. If you find the tome and take it to Quenaire in Rivendell, you will be rewarded and given a letter.
+Take the letter back to Tethel, she will say that she has to speak to Galadriel and vanish for 24 ticks. Return after 24 ticks
+and you will be granted limited access to Lorien.
+
+  Reward: Some lembas wafers, possibly some miruvor, and a letter of introduction to the elves of Lorien.
+  Achivement: You have been granted an annual entrance to Lorien.
+
+
+** White Stag Quest (Whitie only)
+
+Location: Lorien in the general area of Caras Galadhon.
+  Quest: Find the White Stag in the forest, and start chasing after him as he runs. After a (long) while of chasing him, he will
+thank you for the chase, lead you to a reward, and disappear. Note that he moves via mudlle, so you cannot just 'follow' him. 
+His movement is always one of two possibilities: First he will go one room in the direction it says he ran, then he will go either
+one extra room in that same direction, or one room in either perpendicular direction. (For instance: If it says he vanishes in the
+forest to the east, you will either find him 2e, or e n, or e s.
+
+  Reward: 4000 experience, forest green cloak, large wooden wall shield, an amethyst, an elven shortbow.
+  Achivement: You chased the white stag till the end of his run through the woods of Lorien.
+
+
+** Witch King Quest (Whitie only)
+   Location: Lorien, the mirror of Galadriel
+
+  Group needed: This quest is only given to groups of legends. Group size which can finish it easily: 2 50+ clerics and 2-3 50+ 
+warriors. Maximum size of group seems to be 7 and it is good idea to bring in as much as possible (more ppl, more reward items). 
+Actual requirements might depend on group size though. At least if you enter with 7, you must defeat the Witch-King. Else you 
+end up with mallorn brooch which is guaranteed as minimum reward.
+
+  Quest: Find Galadriel, have a group of legends ready at the mirror. Ask Galadriel mirror, when she finally asks you to follow 
+you need to follow. She leads you to mirror and where she starts talking, nod when she asks if you want to look. After that you
+arrive in the Witch King zone. This zone is a parallel world, you start without equipment, and you don't loose exp when you 'die'
+here. At the starting point of this zone some equipment is on the ground, so distribute it among your group members. The zone
+itself is mudlled in same way village near Ingrove which can be burned (via “burn village” command), here the fire is initiated
+automatically and cannot be stopped. Eventually whole place will burn as fire spreads, so you only have limited time to defeat
+the Witch King. Sleeping in any room periodically causes a pop (with random delay and possibly repetitive) of an aggressive
+mobile and puts you to magic sleep, so you can't wake unless attacked. After you attack Witch King, resting also causes pop of
+aggressive mobiles. There are many identical patrols and Ar-Nagazhon, the Lieutenant on the way to Witch-King. Kill all patrols
+before Lieutenant, he will yell and call them to help. Loot some eq from them, and some scrolls from a chest. The final smob is
+the Witch-King, who is basically a summoning version of an ebon wraith. Best strategy is to blind him and eliminate all the 
+enemies he summons. Once he stops summoning, just get him to low wounded to win.
+
+  Reward: Experience for the dead mobs, (even if you fail to kill the Witch King) Everyone in group gets one of: elven longbow,
+          golden belt, some box (advance growth on shrubs), finely woven hood, finely woven cloak, mallorn brooch
+  Achivement: You have been drawn into the dark haze of Galadriel's mirror.
+
+
+** Niuldor's quest (Whitie only)
+   Location: south from Ingrove at Niuldor the Herbalist
+  Quest: Niuldor the Herbalist will ask you to retrieve a parchment from the librarian in Lorien. Go to 'The Great Library' (s, 
+2u, w) from The Shimmering Fountain) and 'ask librarian parchment'. After bringing him the parchment, he will ask you to retrieve
+elderberries from Fangorn.
+
+  Reward: Herbal kit upgrade
+  Achivement: You helped Niuldor the botanist to prepare a cure disease potion.
+
+
+** Azra-Zaira Quest (Darkie only)
+   Location: Vale of Anduin, at Blackhatch
+  Quest: Forostar north. Orrostar east. Hyarrostar southeast. Hyarnustar southwest. Andustar west. Mittalmar center.
+“Look star” in the room reveals a map with the texts: N E SE SW W C in the directions nort, east, southeast southwest west and 
+center. You have to push the stake with the right region to the right spot. So for instance if N is in the southeast you have 
+to push Forostar to the southeast. You need a palantir from the Death Knight to get the reward
+
+  Reward: A star charm
+  Achivement: You contributed the Seeing Stone of Amon-Sul to the library of Azra-Zaira.
+
+
+** Sad Farmer & Twin children quest (Whitie only)
+   Location: Vale of Anduin, sw corner of sw zone; needed 30 str to open door down
+
+  Quest: This is the same location as the Nagash quest for darkies. Kill Nagash and get twins from his locked room. They will 
+follow you as soon as you acknowledge you are there to save them.  Take them to their father, the sad farmer. He wanders in 
+zone west of Vale ford. He will take you to his cottage and give you his reward.
+
+  Reward: 10k xp, sword shaped cloakpin
+  Achivement: You rescued the twins of an Anduin Vale farmer from the Numenorean sorcerer Nagash.
+
+
+** Nagash's quest (Tarkhnarb Orcs only)
+   Location: Vale of Anduin, sw corner of sw zone; needed 30 str to open door down
+  Quest: Nagash will ask you to bring him a silver goblet. It loads on the spectre in a tomb in the ne corner of the Vale. 
+Spectre calls up to 4 undeads to help him if attacked, so beware. It's pointless to kill soldiers before spectre: it will just
+summon new ones. After it dies, the empty goblet falls to the ground - bring it to Nagash. He will sacrifice twins and fill the
+goblet with blood.
+
+  Reward: Goblet of blood (if quaffed affects you by Blood of Sauron (+2 STR))
+  Achivement: You brought a sacrificial goblet to the Númenórean sorcerer Nagash.
+
+
+** Blackened spear quest (Anyone, any level)
+   Locations of quest items: Vale of Anduin
+
+  Quest: To create blackened spear you need 3 components: spearhead, black staff from Nagash and mithril piece from Moria. 
+Spearhead loads in Vale area: from ford e n open cassion d open mossboard d e 2n w reveal skeleton - and it pops inside 
+skeleton. If it's not popped - check goblin corpse near water serpents - even more rarely it pops there. Then bring it to Angdil
+as whitie, or to Grachalg as darkie, keep all 3 pieces in inventory and type "mend spearhead".
+
+  Reward: Blackened spear.
+
+
+** Narv quest (Whitie only, any level)
+   Location: Vale of Anduin
+  Quest: Find Narv who he lives in three-room house some west from Mirkwood. Listen to him and accept his quest - find assassin 
+who killed his wife, revenge for her death and return her ring to Narv. Vairr the Assassin pops in zone n from Narv, but he can
+wander anywhere in Vale. Locate him if you are mage, or spend some time tracking otherwise. Vairr is aggressive and can backstab
+you, so beware. On low hps (low wounded) he starts running and hiding. Kill him and bring azure ring to Narv - he gives you jade
+amulet or letter for Ingrove citizenship (if u meet level requierments).
+
+  Reward: Jade amulet or Ingrove citizenship.
+  Achivement: You avenged the death of Narv the Beorning's wife and returned to him her ring.
+
+
+** Hombur mill (Whitie only, blow level 15)
+   Location: Vale of Anduin
+
+  Quest: Go to Freuf, the baker, in Honburg (just west of the mill). Ask him about “hobbit”. He will tell you that the mill 
+east of Honburg has been broken for some time, and that he wants it fixed. Go to mill and go nw about three rooms to soakedfeet.
+Pick the door down and go down all e. East of you is hidden exit 'backwall' pick this open and go east and pick up the broken
+cogwheel. Rattlesnake in this room too so be careful if you are lowlev. Now you need to get this cog mended. In the room ws of
+the cog is a note from Rob Sandyman saying his family are leaving the mill and going west, so follow in his footsteps and go
+visit his brother Ted who runs the mill in the Shire. (Ted's mill is just north of threefarthings stone). When you enter Ted 
+will look at the cog and offer to mend it. Give him the cog and then leave the room. Return and Ted will ignore you and pretend
+he never offered to help you. "ask ted cogwheel" and he'll demand you go and pay his bar bill at the Green Dragon inn. Go wsesesw
+and enter the Green Dragon. "ask barman pay bill" and he will take 5 gold from you. Return to Ted and he'll grudgingly give you
+the mended cog. Now run all the way back to the mill.
+  In the wheel room (1 down in the mill) "insert cog mechanism". Now you see that the shaft turns a bit but the waterflow to 
+the water wheel is blocked. Run to Ingrove get shovel from the armoury and get a flask of oil while you are there. Return to
+the mill and go to the wheel room. Wield the shovel and "clean waterway". Now the channel is clear but still no water is flowing
+so go to the source of the problem, the calm reservior 1w 1n of the mill. Here it looks like the boulders are the problem but 
+they are just a red herring, "exa pool" and you will see a load of gravel is blocking the flow. "dig gravel" and you will clear
+it out. Now return to the mill and you will see the water wheel is turning but still the shaft is stuck. "exa shaft" and you see
+that it's rusty and jammed. To fix it you need three people. Person one has to stand in the top room and when ready "push grindstone".
+Person two goes to the wheel room and does "turn shaft". Both of these commands must be done roughly the same time so I suggest
+that person three stands in the top room and yells 3, 2, 1, go. When both 1 and 2 are pushing/turning the rust will begin to
+flake off the shaft. While they are still pushing and turning person three must "pour oil hole" this will grease the shaft and
+the grindstone will turn freely now. Go back to Freuf the baker, he will thank you for repairing the mill and give you a letter
+for Loryen in Ingrove.
+
+  Reward: Ingrove citizenship
+  Achivement: You fixed the old hobbit mill on the hillside near Honburg.
+
+
+** Hag's quest (Whitie only)
+   Location: Vale of Anduin
+
+  Quest: Old Hag (herbalist shop) asks every newbie around to bring her powder of black antlers (if deer corpse loaded and 
+quest isn't solved by someone else). Go from outside of Beorn's home: s 2e n e s open thickstems w - there loads deer corpse
+with antlers in it. With antlers in inventory approach baker in Honburg - he asks you for honey from beekeeper, go to him and
+'ask beekeeper honey'. He asks you to kill queen bee, it lives nearby. Kill it and bring it's corpse to beekeeper. Now he says
+he sends some honey to baker. Return to baker, listen to him, and then give him antlers. Bring blackened burned powder to Hag
+and receive a skin with 'love potion'.
+
+  Reward: 3000 exp and love potion.
+  Achivement: You have brought black powder to the Old Hag of Ingrove, and for whatever reason received a love potion as the
+              payment.          
+
+
+** Farmer Ocher quest (Whitie, Bn)
+   Location: south-east from Ingrove at Farmer Orcher
+
+  Quest: Farmer Orcher will ask you to find his cow Buttercup who left to the Mirkwood direction. Buttercup can be found some
+east area with spiders or inside Mirkwood (go in from the gate) with the spider. Kill the spider and 'lead cow' back to the
+farmer. Bears cant lead cow in meta-form.
+
+  Reward: curdled milk, Wooden pipe, forest green cloak or yew longbow, 250xp
+  Achivement: You recovered Buttercup, the favourite cow of Beorning farmer Ocher.
+
+
+** Ingrove Citizenship Quest
+   Location: Vale of Anduin, Beorning village northwest from Ingrove
+
+  Quest: Every full moon during winter, a huge pack of orcs and wargs loads at the Wolf Glade southeast of NOC, and marches to
+the Beorning village near Ingrove. It bashes the exits into the village, kills all the mobs there, and then returns to the
+Wolf Glade and disappears. The pack loads each full moon during Afteryule, Solmath, and Rethe, so it can happen 3-4 times a MUME
+year depending on the moon cycle phase (the phase changes only when the calendar is restarted). Kill the warg chieftain, butcher
+its corpse, and bring the head to Beorn. Beorn will give you a sealed letter in exchange for the head. Give this letter to Loryen,
+in Ingrove and you will receive citizenship.
+
+  Reward: Ingrove citizenship.
+  Achivement: You assisted Beorn in defeating the warg riders of Anduin Vale.
+
+   
+** Elven Scout's quest
+   Location: Vale of Anduin
+
+ Quest: An elven scout loads south of Ingrove, it's behind a hidden woodendoor. Knock this door to open it. The elf is missing
+one of his elven daggers. The dagger he is missing loads in the forest with trolls and goblin corpse just south of him. Either
+hidden in one of the rooms or in the corpse.
+
+  Reward: 5 gold and sometimes a flask of miruvor.
+  Achivement: You retrieved the dagger lost by one of Elrond's scouts in a goblin attack near the Anduin.
+
+
+** Oakscar quest
+   Location: East Mirkwood
+
+NB! reward cannot be combined with growth (Harle) and vigour (Poison forest) effects!
+ Quest: Before starting the quest, obtain a black heart and a shard of black ice: do yourself or get from another player. Black
+heart loads from frayed fell beast in CA or scarred fell beast in Emyn-nu-Fuin, shard from a cloud of black, icy shards. Go to East
+Mirkwood to area around Centre of the Twisted Woods and kill oaks and a darkly gnarled tree. Do not kill next gnarled tree because
+it's the quest mob, who summons more oaks and vines. If you get hit by gnarled flee and do oaks and vines. Kill all mobs he summons
+and then give one by one items to a gnarled tree for rewarded. After quest is completed you can kill it if you want.
+
+  Reward: +6 dodge bonus for a week
+  Achivement: You brought Oakscar the gnarled ent the objects he desired.
+
+
+** Gwathion's lost equipment (Anyone)
+   Location: Emyn-nu-Fuin
+
+  Quest: some N of Ghagul's stronghold in Emyn-nu-Fuin search exit w to find hidden exit. This changes with eachpop. Kill
+wandering mobs in this area: huge frothing bear, 1-2 mottled snakes, grey wolf (these will wake you from the quest-sleep).
+Find the Murky Tributary and drink water. You will fall asleep for 20 minutes, affected by a dreaming state. You cannot wake up
+from this sleep. While asleep, you will see a dream about Gwathion's mission, if the quest is active. You will see the location
+of his demise. Once you wake up, go to that location and reveal equipment to recover his items. Locations can vary, but are all
+fairly easily identifiable in zones east and south of Ingrove.
+
+  Reward: nimble blade, silvan satchel (marjoram, foxtail, 6 tarragon leaves, 4 sage leaves, 3 lembas wafer), 
+  knee-high hunting boots/soft leather boots, soft leather jerkin/sleeves/trousers, forest green cloak
+  Achivement: You found Gwathion's lost equipment.
+
+
+** Kral quest (Zorc only)
+   Location: Emyn-nu-Fuin
+
+  Quest: After approaching Kral he will ask you to bring him Vurgl head. Find Vurgl camp, kill him and butcher to get head. Bring
+it to Kral to get reward.
+
+  Reward: Healing herblore
+  Achivement: You killed Vurgl and brought his severed head to Kral.
+
+
+** Narag quest (Zorc only)
+   Location: ZOC
+
+  Quest: Bring Narag perfect oak branch, bar of iron, silver nugget and tarnished arrowhead.
+Bar of iron can be found in Malardil Castle in room The Castle Forges and Armoury. Silver nugget from Smuggler's Barrow near SSC,
+inside crate. Tarnished arrowheads load in OiE. There are four loadspots: 1) 4s entrance; 2) 3s entrance+u+w+all u with eagle;
+3) w n w silverpanel; 4) s e u n e e from entrance.
+After carting arrows with request 6 (Gergargg's ritual), arrows become enchanted and are nobreak.
+
+  Reward: a slender barbed arrow. 
+
