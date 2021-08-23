@@ -16,8 +16,11 @@
 #macro {\e[3~} {time}
 #macro {\e[3;2~} {help months}
 #macro {\e.} {time}
-#macro {\e,} {info %( MP %j/%J (%X) HP %z/%Z - TP %t (%T) XP %x (%X) %)}
+#macro {\e,} {info %( MP %j/%J (%X) HP %z/%Z Mana %e/%E - TP %t (%T) XP %x (%X) %)}
+#macro {§} {info %( MP %j/%J (%X) HP %z/%Z Mana %e/%E - TP %t (%T) XP %x (%X) %)}
 #macro {\e;} {info %.mood %(%Y%) alert %(%R%) OB %(%O%) DB %(%D%) PB %(%k%) abs %(%A%) Wimpy %(%y%) %.%(%g%) gold, level %(%l%), %(%X%) xp / %(%T%) tp needed %.%F %C %.HP %(%z%)/%Z Mana %(%e%)/%E Move %(%j%)/%J %.%f}
+#macro {½} {info %.mood %(%Y%) alert %(%R%) OB %(%O%) DB %(%D%) PB %(%k%) abs %(%A%) Wimpy %(%y%) %.%(%g%) gold, level %(%l%), %(%X%) xp / %(%T%) tp needed %.%F %C %.HP %(%z%)/%Z Mana %(%e%)/%E Move %(%j%)/%J %.%f}
+#macro {\e<} {info %.mood %(%Y%) alert %(%R%) OB %(%O%) DB %(%D%) PB %(%k%) abs %(%A%) Wimpy %(%y%) %.%(%g%) gold, level %(%l%), %(%X%) xp / %(%T%) tp needed %.%F %C %.HP %(%z%)/%Z Mana %(%e%)/%E Move %(%j%)/%J %.%f}
 #macro {\ee} exits
 #macro {\e-} look
 
@@ -116,7 +119,7 @@
 #macro {\e[2~} {time}
 
 #nop Delete
-#macro {\e[3~} {info %( MP %j/%J (%X) HP %z/%Z - TP %t (%T) XP %x (%X) %)}
+#macro {\e[3~} {info %( MP %j/%J (%X) HP %z/%Z Mana %e/%E - TP %t (%T) XP %x (%X) %)}
 #macro {\e[3;2~} {info %.mood %(%Y%) alert %(%R%) OB %(%O%) DB %(%D%) PB %(%k%) abs %(%A%) Wimpy %(%y%) %.%(%g%) gold, level %(%l%), %(%X%) xp / %(%T%) tp needed %.%F %C %.HP %(%z%)/%Z Mana %(%e%)/%E Move %(%j%)/%J %.%f}
 
 
