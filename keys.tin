@@ -132,3 +132,18 @@
 #macro {\e[D} {#echo West;west}
 #macro {\eOo} {#echo Up;up}
 #macro {\eOj} {#echo Down;down}
+
+#alias z {#echo Shoot; remove longbow; wield longbow; shoot %0; wield broadsword}
+#alias wb {remove longbow; wield longbow; pb broadsword}
+#alias ws {remove longbow; wear longbow; gb broadsword; wield broadsword}
+#macro {Å} {remove longbow; wield longbow; pb broadsword}
+#macro {Ö} {remove longbow; wear longbow; gb broadsword; wield broadsword}
+#macro {ä} {wear longbow; get all from corpse; get all.arrow; put all.arrow quiver; butcher corpse}
+#alias w- {remove broadsword; pb broadsword; remove longbow; wear longbow}
+#alias w+ {gb broadsword; wield broadsword}
+#alias cr {gb pan; gb salt; #send {cook raw}; pb pan; pb salt}
+#alias cook {gb pan; gb salt; #send {cook %0}; pb pan; pb salt}
+
+#macro {ö} {cast 'cure serious'}
+#macro {å} {#echo shoot; shoot}
+#alias em {gb meat;eat meat}
